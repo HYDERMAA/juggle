@@ -1,0 +1,14 @@
+# release build (attach dist/juggle.zip to a GitHub release instead)
+dist/
+# secrets
+.env
+.env.*
+!.env.example
+# clutter
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+team/
+# a test ledger made while trying the script by hand
+.juggle/
