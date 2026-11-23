@@ -1,3 +1,6 @@
-{"date": "23 Nov 2026", "scenarios": 30, "heldout_n": 10, "tests": 20,
- "heldout": {"none_pct": 0, "juggle_pct": 0}, "dev": {"none_pct": 0, "juggle_pct": 0},
- "layer_heldout": {"none_pct": 0, "juggle_pct": 0}, "layer_dev": {"none_pct": 0, "juggle_pct": 0}}
+{"date": "23 Nov 2026", "scenarios": 30, "heldout_n": 10, "tests": 23, "final": "j5",
+ "heldout": {"none_pct": 76, "juggle_pct": 93, "none": "366/480", "juggle": "446/480", "paste": "453/480", "paste_pct": 94},
+ "dev": {"none_pct": 77, "juggle_pct": 92, "none": "747/972", "juggle": "890/972"},
+ "layer_heldout": {"none_pct": 78, "juggle_pct": 95, "paste_pct": 96},
+ "layer_dev": {"none_pct": 82, "juggle_pct": 95},
+ "judge_agreement_pct": 94}

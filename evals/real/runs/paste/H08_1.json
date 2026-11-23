@@ -1,0 +1,7 @@
+{
+ "id": "H08",
+ "sample": 1,
+ "cond": "paste",
+ "model": "gpt-oss-20b",
+ "response": "Yes\u2014here are the full FAQ answers (with titles) translated into Spanish:\n\n**1) \u00bfCu\u00e1ndo se imprimen las camisetas?**  \nImprimimos cada camiseta bajo pedido.\n\n**2) \u00bfCu\u00e1nto tarda la entrega?**  \nLa entrega tarda de 3 a 5 d\u00edas laborables.\n\n**3) \u00bfC\u00f3mo puedo devolver un art\u00edculo?**  \nLas devoluciones se aceptan dentro de 30 d\u00edas.\n\n**4) \u00bfC\u00f3mo lavo la camiseta?**  \nL\u00e1vese al rev\u00e9s a 30\u202f\u00b0C.\n\n**5) \u00bfC\u00f3mo puedo contactar con ustedes?**  \nCont\u00e1ctenos a trav\u00e9s de los mensajes de eBay.\n\nDone."
+}

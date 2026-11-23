@@ -1,0 +1,7 @@
+{
+ "id": "H06",
+ "sample": 0,
+ "cond": "paste",
+ "model": "gpt-oss-20b",
+ "response": "- Orders placed in Latvia from 10\u201114\u202fNov will be 4\u20116\u202fdays late due to a facility fault.  \n- Shipping charges on affected orders will be refunded automatically.  \n- Printful apologises for the inconvenience.\n\n**Emailing customers:**  \nYes, it\u2019s a good idea to inform customers that their orders may arrive late and that refunds are being processed automatically. A brief apology and the estimated delay will help manage expectations."
+}

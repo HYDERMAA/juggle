@@ -1,0 +1,7 @@
+{
+ "id": "H06",
+ "sample": 0,
+ "cond": "none",
+ "model": "gpt-oss-20b",
+ "response": "**Do you need to email your customers?**  \n\n- **Generally yes.**  \n  - Even though shipping will be delayed and shipping costs will be refunded, letting customers know keeps them informed, reduces missed\u2011delivery speculations, and shows proactive support.  \n- **Make the message concise.**  \n  - State the exact dates affected, the new expected delivery window, and that shipping will be refunded automatically.  \n- **Include a way to contact you** for further questions, and thank them for their patience."
+}

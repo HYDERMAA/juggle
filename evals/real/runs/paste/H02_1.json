@@ -1,0 +1,7 @@
+{
+ "id": "H02",
+ "sample": 1,
+ "cond": "paste",
+ "model": "gpt-oss-20b",
+ "response": "**WhatsApp Message**\n\n> Hey team!  \n> Let\u2019s unwind together this **Thursday at 7\u202fpm** at **The Crown**.  \n> See you there!  \n\nDone"
+}

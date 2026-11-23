@@ -1,0 +1,7 @@
+{
+ "id": "H06",
+ "sample": 1,
+ "cond": "j5",
+ "model": "gpt-oss-20b",
+ "response": "* **Issue**: Latvia plant fault caused 4\u20116\u202fday shipping delays on orders placed 10\u201114\u202fNov.  \n* **Refund**: Shipping will be refunded automatically on affected orders.  \n* **Apology**: Printful expresses regret for the inconvenience.\n\n**Should you email customers?**  \nYes. Letting them know the delay and the automatic refund keeps them informed, reduces potential confusion or complaints, and maintains trust. A short email with the same message is sufficient."
+}

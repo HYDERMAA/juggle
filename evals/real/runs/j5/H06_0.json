@@ -1,0 +1,7 @@
+{
+ "id": "H06",
+ "sample": 0,
+ "cond": "j5",
+ "model": "gpt-oss-20b",
+ "response": "**BLUF:** Your email should contain the three\u2011bullet summary and a short apology; it\u2019s best to inform customers proactively.\n\n1. Finalise a 3\u2011bullet recap for the email subject line or opening.\n2. Include a brief apology and note that shipping will be refunded automatically.\n3. Advise sending the email now \u2013 a proactive notice is preferred over waiting.\n\n**Summary (3 bullets)**  \n- Fault at Latvia warehouse caused 10\u201314\u202fNov orders to be 4\u20136\u202fdays late.  \n- We\u2019ll refund shipping on all affected orders automatically.  \n- Apology for the inconvenience and thanks for your understanding.  \n**Email recommendation:** Yes, send a short email to all impacted customers to keep them informed and maintain trust."
+}

@@ -1,0 +1,7 @@
+{
+ "id": "H03",
+ "sample": 1,
+ "cond": "j5",
+ "model": "gpt-oss-20b",
+ "response": "**BLUF:** Here\u2019s how to set up an eBay promoted listing at 2.5\u202f% for your tee shop.\n\n---\n\n### Step\u2011by\u2011step\n\n1. **Log in** to your selling manager on eBay UK.  \n2. **Open the listing** you want to promote (or create a new one).  \n3. In the **Promoted Listings** section, click **Create an ad**.  \n4. Enter the **promotion budget**:  \n   - Choose \u201cSet a percentage\u201d \u2192 type **2.5** and confirm.  \n5. Pick the **duration** (usually 30\u201190 days, depending on your strategy).  \n6. Review the **estimated performance** (eBay will show CPM, CPC, etc.).  \n7. Click **Save and Submit**.  \n\n### Tips\n\n- **Track ROI**: check the \u201cPromotions performance\u201d tab in Selling Manager each week.  \n- **Adjust bids**: if CPM is too high, lower the percentage; if you\u2019re getting enough traffic, keep at 2.5\u202f%.  \n- **Start small**: test on a few listings first before rolling out to all inventory.  \n\nThat\u2019s all\u2014once submitted, eBay will handle the rest, displaying your listing in the promotional feed for the set percentage fee."
+}

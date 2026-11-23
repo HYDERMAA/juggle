@@ -1,0 +1,7 @@
+{
+ "id": "H05",
+ "sample": 2,
+ "cond": "paste",
+ "model": "gpt-oss-20b",
+ "response": "- Got your 2 requests: remove duplicates ignoring case while preserving original order, and how to run tests in Python again.  \n\n```python\ndef uniq_emails(emails):\n    seen = set()\n    result = []\n    for e in emails:\n        low = e.lower()\n        if low not in seen:\n            seen.add(low)\n            result.append(e)\n    return result\n```\n\n**Run tests again**\n\n```bash\n# run all tests in the current directory\npython -m unittest discover\n\n# run a specific test file\npython -m unittest tests/test_module.py\n\n# run a single test method\npython -m unittest tests.test_module.TestClass.test_method\n```\n\nAll tests run under the `unittest` framework. In a `pytest` environment you can just run `pytest`. Done."
+}

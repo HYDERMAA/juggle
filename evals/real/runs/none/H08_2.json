@@ -1,0 +1,7 @@
+{
+ "id": "H08",
+ "sample": 2,
+ "cond": "none",
+ "model": "gpt-oss-20b",
+ "response": "**FAQs (Preguntas frecuentes)**  \n\n| # | Espa\u00f1ol | English** |  \n|---|---------|-----------|  \n| 1 | Imprimimos cada camiseta bajo pedido. | We print every tee to order. |  \n| 2 | La entrega tarda de 3 a 5 d\u00edas laborables. | Delivery takes 3 to 5 working days. |  \n| 3 | Aceptamos devoluciones dentro de los 30 d\u00edas. | Returns are accepted within 30 days. |  \n| 4 | Lave dentro por fuera a 30\u202f\u00b0C. | Wash inside out at 30\u202fdegrees. |  \n| 5 | Cont\u00e1ctenos mediante mensajes de eBay. | Contact us through eBay messages. |   }}"
+}

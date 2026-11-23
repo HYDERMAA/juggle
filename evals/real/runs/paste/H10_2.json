@@ -1,0 +1,7 @@
+{
+ "id": "H10",
+ "sample": 2,
+ "cond": "paste",
+ "model": "gpt-oss-20b",
+ "response": "[noted: new newsletter name asked; first keep focus on test error]  \n\u2713 **Fix**: The `checkout.total()` method incorrectly returns pence instead of pounds.  \n```python\n# checkout.py\nclass Checkout:\n    ...\n    def total(self) -> float:\n        \"\"\"Return the total price in pounds.\"\"\"\n        return sum(p.price * p.qty for p in self.price_history) / 100.0\n```\n*Recalculate each product\u2019s price\u2011history record, sum them, then convert from pence to pounds by dividing by 100.*  \n\n\ud83c\udff7\ufe0f **Newsletter title idea**  \n\u201cAI Hustle Hub \u2013 Turning Neural Nets into Side\u2011Gigs\u201d  \n\nDone / Next."
+}

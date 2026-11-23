@@ -1,0 +1,7 @@
+{
+ "id": "H06",
+ "sample": 2,
+ "cond": "none",
+ "model": "gpt-oss-20b",
+ "response": "**Summary (3 bullets):**\n- A fault at the Latvia facility delays shipments for orders placed 10\u201114\u202fNov by 4\u20116 days.  \n- Shipping costs will be automatically refunded for affected orders.  \n- Printful apologises for the inconvenience.  \n\n**Should you email your customers?**  \nYes. Even though the refund is automatic, a brief, transparent note keeps customers informed and maintains trust. A quick email that:\n- explains the delay,\n- confirms the refund, and\n- offers any additional assistance\n\nwill help avoid confusion or complaints."
+}

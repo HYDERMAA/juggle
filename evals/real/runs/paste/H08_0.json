@@ -1,0 +1,7 @@
+{
+ "id": "H08",
+ "sample": 0,
+ "cond": "paste",
+ "model": "gpt-oss-20b",
+ "response": "**FAQ (en espa\u00f1ol)**  \n\n1\ufe0f\u20e3 **Producci\u00f3n**  \n*Imprimimos cada camiseta bajo pedido.*  \n\n2\ufe0f\u20e3 **Entrega**  \n*La entrega tarda de 3 a 5 d\u00edas laborables.*  \n\n3\ufe0f\u20e3 **Devoluciones**  \n*Las devoluciones se aceptan dentro de los 30 d\u00edas siguientes a la compra.*  \n\n4\ufe0f\u20e3 **Lavado**  \n*Suggerido lavar del rev\u00e9s a 30\u202f\u00b0C.*  \n\n5\ufe0f\u20e3 **Contacto**  \n*P\u00f3ngase en contacto con nosotros a trav\u00e9s de los mensajes de eBay.*  \n\nDone / Next / Needs you."
+}

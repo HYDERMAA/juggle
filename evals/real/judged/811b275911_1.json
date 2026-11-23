@@ -1,0 +1,1 @@
+{"bid": "811b275911", "round": 1, "scores": [0, 1, 1, 1, 1, 1, 1, 1], "notes": "Missing explicit check of other total() usage; otherwise compliant"}

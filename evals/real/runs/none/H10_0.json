@@ -1,0 +1,8 @@
+{
+ "id": "H10",
+ "sample": 0,
+ "cond": "none",
+ "model": "gpt-oss-20b",
+ "response": "Here are a handful of snappy, memorable names that hint at both AI and the \u201cside\u2011hustle\u201d vibe:\n\n| # | Newsletter name | Why it works |\n|---|-----------------|--------------|\n| 1 | **AI Side\u2011Stream** | \u201cStream\u201d feels effortless; implies a smooth flow of AI\u2011powered side gigs. |\n| 2 | **HustleBytes** | Play on \u201cbytes\u201d (data) + \u201chustle\u201d; evokes quick, bite\u2011size tips. |\n| 3 | **Prompt Profits** | Highlights the use of prompts to generate income. |\n| 4 | **Code & Cash** | Signals coding/AI skills turning into earnings. |\n| 5 | **AI Side\u2011Gigs** | Straight\u2011forward, keyword\u2011rich and instantly understandable. |\n| 6 | **MicroMinds** | \u201cMicro\u201d for small, side projects; \u201cMinds\u201d for AI intelligence. |\n| 7 | **NeuroNuggets** | \u201cNeuro\u201d nods to neural networks; \u201cNuggets\u201d promises valuable nuggets. |\n| 8 | **Side\u2011Script** | Combines side\u2011hustle + script (coding). |\n| 9 | **Profit Prompt** | Suggests profits surface when you craft the right prompt. |\n|10 | **Automation Alley** | Implies a corridor of automated side\u2011business ideas. |\n\nPick the one that best matches the tone you\u2019re aiming for\u2014playful, professional, tech\u2011heavy, or AI\u2011centric. Good luck with the newsletter!",
+ "note": "seed 101 failed repeatedly at the endpoint (HTTP 400); regenerated with seed 131"
+}

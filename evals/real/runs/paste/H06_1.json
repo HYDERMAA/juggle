@@ -1,0 +1,7 @@
+{
+ "id": "H06",
+ "sample": 1,
+ "cond": "paste",
+ "model": "gpt-oss-20b",
+ "response": "**Summary (3 bullets)**  \n- A fault at the Latvia facility caused orders dated 10\u201114\u202fNov to ship 4\u20116\u202fdays late.  \n- Printful will automatically refund shipping for affected orders.  \n- Apology issued for the delay and inconvenience.  \n\n**Should you email your customers?**  \nYes.\u202fNotify them of the delay, the refund, and offer a short apology or compensation (e.g., a discount code). This maintains trust and transparency.  \n\nDone."
+}

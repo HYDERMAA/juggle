@@ -1,0 +1,7 @@
+{
+ "id": "H03",
+ "sample": 1,
+ "cond": "paste",
+ "model": "gpt-oss-20b",
+ "response": "**You asked for a concise setup guide for an eBay promoted listing at 2.5%**  \n\n1. Log in to your eBay UK seller account.  \n2. Go to *Seller Hub* \u2192 *Listings* \u2192 *Promoted listings*.  \n3. Click *Create promoted listing*.  \n4. Choose the item you want to promote (or create a new listing).  \n5. In the *Bid* field, set your bid to **2.5%** of the listing\u2011price.  \n6. Set the duration (1\u20117 days is typical).  \n7. Review and click *Publish*.  \n\n**That\u2019s all you need to set the bid at 2.5%.** Done."
+}

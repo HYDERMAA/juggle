@@ -1,0 +1,7 @@
+{
+ "id": "H06",
+ "sample": 1,
+ "cond": "none",
+ "model": "gpt-oss-20b",
+ "response": "**Summary (3 bullets)**  \n- A fault at Printful\u2019s Latvia facility caused orders from 10\u201314\u202fNov to ship 4\u20116\u202fdays late.  \n- Printful will automatically refund the shipping cost on any affected order.  \n- The delay is an apology\u2010style notice; no further action is requested from customers.\n\n**Should you email your customers?**  \nYes.  \n- Even though Printful is handling refunds, letting your customers know proactively builds trust.  \n- Keep the message short: acknowledge the delay, explain the cause, confirm the refund, and offer a small goodwill gesture if your policy permits.  \n- Use the same tone the official note used (polite, apologetic)."
+}

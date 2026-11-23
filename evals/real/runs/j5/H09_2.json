@@ -1,0 +1,7 @@
+{
+ "id": "H09",
+ "sample": 2,
+ "cond": "j5",
+ "model": "gpt-oss-20b",
+ "response": "**SMS (160\u202fchars)**  \n\"Good news! The Brackwell navy tee is back in stock. Show 10% off with code BACK10 at checkout. Grab it now while supplies last!\""
+}

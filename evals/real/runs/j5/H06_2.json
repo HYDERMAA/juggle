@@ -1,0 +1,7 @@
+{
+ "id": "H06",
+ "sample": 2,
+ "cond": "j5",
+ "model": "gpt-oss-20b",
+ "response": "**Summary (3 bullets)**  \n1. Latvia facility fault caused shipping delays of 4\u20136\u202fdays for orders placed 10\u201114\u202fNov.  \n2. Printful will automatically refund shipping for affected orders.  \n3. Apology offered for the inconvenience.\n\n**Recommendation**  \nYes\u2014send an email to customers whose orders were affected. Include the apology, delay details, and \u202fshipping\u2011refund confirmation. This keeps them informed and maintains trust."
+}

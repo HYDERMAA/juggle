@@ -1,0 +1,7 @@
+{
+ "id": "H10",
+ "sample": 2,
+ "cond": "j5",
+ "model": "gpt-oss-20b",
+ "response": "**BLUF:** Updated `total()` to return \u00a324.99 instead of 2499 pennies and suggested a newsletter title.  \n\n---  \n\n### 1. Fixed `total()` in `checkout.py`  \n```python\n# checkout.py  (excerpt)\ndef total(self) -> float:\n    \"\"\"\n    Return the total amount in **pounds** as a float, rounded to two decimals.\n    The original implementation returned the total in pence which caused the\n    test `test_checkout_total` to compare 24.99 with 2499.\n    \"\"\"\n    # Sum the line totals, which are stored in pence\n    total_pence = sum(line.total for line in self.lines)\n\n    # Convert pence to pounds\n    return round(total_pence / 100, 2)\n```\n\n*Added docstring, clarified conversion, and removed the accidental integer return.*\n\n### 2. Newsletter name suggestion  \n**\"AI Hustler's Ledger\"**\n\nFeel free to tweak the wording\u2014this captures both AI and side\u2011hustle vibes while sounding professional."
+}

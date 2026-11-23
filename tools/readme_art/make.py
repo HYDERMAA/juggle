@@ -320,7 +320,7 @@ def anatomy(mode):
 # =====================================================================
 def results(mode):
     t = THEMES[mode]
-    W, H = 1200, 470
+    W, H = 1200, 500
     rows = [("Held-out tests", RES["heldout"]), ("Development tests", RES["dev"]),
             ("Layering checks, held-out", RES["layer_heldout"]), ("Layering checks, development", RES["layer_dev"])]
     d = Doc(W, H, "Eval results on a small open model, gpt-oss-20b: " + "; ".join(f"{n}: {r['juggle_pct']}% with Juggle vs {r['none_pct']}% with no skill" for n, r in rows) + ".")
@@ -328,7 +328,7 @@ def results(mode):
     eyebrow(d, t, 50, 62, "Tested, not guessed")
     d.text(W - 50, 62, f"gpt-oss-20b  ·  blind judge  ·  {RES['date']}", 16, t["mute"], 600, anchor="end")
     d.add(f'<path d="M10 86H{W-10}" stroke="{t["line2"]}"/>')
-    x0, bw = 380, 640
+    x0, bw = 470, 560
     grad(d, "bj", t["brand"], t["brand2"])
     y = 132
     for name, r in rows:

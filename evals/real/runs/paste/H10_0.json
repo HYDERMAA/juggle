@@ -1,0 +1,7 @@
+{
+ "id": "H10",
+ "sample": 0,
+ "cond": "paste",
+ "model": "gpt-oss-20b",
+ "response": "[observing duplicate test failure] The checkout total is being returned in pence (2499) while the test expects pounds (24.99). Update `checkout.py` so that `total()` returns a float in pounds, i.e. divide the stored pence by 100. Also update any dependent code that formats or prints the total accordingly.\n\n[newsletter name] An engaging name could be **\u201cAI Hustle Bytes\u201d**\u2014short, catchy, and signals quick AI side\u2011hustle insights.  \n\nDone."
+}
