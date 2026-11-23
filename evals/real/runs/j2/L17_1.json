@@ -1,0 +1,7 @@
+{
+ "id": "L17",
+ "sample": 1,
+ "cond": "j2",
+ "model": "gpt-oss-20b",
+ "response": "**Profit per tee (after all fees)**\n\n1. **Listing price:** \u00a319.99  \n2. **eBay final value fee (12.8\u202f%):** 19.99\u202f\u00d7\u202f0.128\u202f=\u202f\u00a32.55  \n3. **eBay payment processing fee (30\u202fp):** \u00a30.30  \n4. **Printful cost:** \u00a312.95  \n5. **Promoted listing fee (2.5\u202f% of selling price):** 19.99\u202f\u00d7\u202f0.025\u202f=\u202f\u00a30.50  \n\n**Total deducted:** \u00a32.55\u202f+\u202f\u00a30.30\u202f+\u202f\u00a312.95\u202f+\u202f\u00a30.50\u202f=\u202f\u00a316.30  \n\n**Profit per tee:** \u00a319.99\u202f\u2212\u202f\u00a316.30\u202f=\u202f**\u00a33.69**."
+}

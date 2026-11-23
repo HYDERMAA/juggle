@@ -1,0 +1,7 @@
+{
+ "id": "L17",
+ "sample": 1,
+ "cond": "j1",
+ "model": "gpt-oss-20b",
+ "response": "**Profit per tee (revised)**  \n\n1. Sale: \u00a319.99  \n2. eBay fee: 12.8\u202f%\u202f\u00d7\u202f19.99 = \u00a32.559 + \u00a30.30 = **\u00a32.859**  \n3. Printful: **\u00a312.95**  \n4. Promoted\u2011listing fee: 2.5\u202f%\u202f\u00d7\u202f19.99 = **\u00a30.500**  \n\n**Net profit**  \n\u00a319.99 \u2013 (\u00a32.859\u202f+\u202f\u00a312.95\u202f+\u202f\u00a30.500) = **\u00a33.681** per tee."
+}

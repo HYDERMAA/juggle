@@ -1,0 +1,7 @@
+{
+ "id": "L08",
+ "sample": 2,
+ "cond": "j2",
+ "model": "gpt-oss-20b",
+ "response": "**Week Plan**\n\n| Day | Activities |\n|-----|------------|\n| Mon | 7\u202fam\u202fGym <br>Finish Seatbelt README (start) |\n| Tue | Record TikTok (cancelled) <br>Continue Seatbelt README |\n| Wed | 7\u202fam\u202fGym <br>Start accounts work |\n| Thu | Finish accounts (deadline) <br>Complete Seatbelt README |\n| Fri | 7\u202fam\u202fGym <br>Final review of Seatbelt README |\n| Sat | **Free** |\n| Sun | **Free** |\n\n- **Gym**: 7\u202fam on Mon, Wed, Fri.  \n- **Seatbelt README**: complete by Friday.  \n- **TikTok**: removed from schedule.  \n- **Accounts**: must be finished by Thursday.  \n- **Weekend**: kept free."
+}

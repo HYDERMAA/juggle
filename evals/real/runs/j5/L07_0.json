@@ -1,0 +1,7 @@
+{
+ "id": "L07",
+ "sample": 0,
+ "cond": "j5",
+ "model": "gpt-oss-20b",
+ "response": "**BLUF:** Applied a 25\u202f%\u2011off statement, but it would drop the price below \u00a318, so a safe 10\u202f%\u2011off version is included.  \n\n---\n\n**Banner text (recommended 10\u202f%\u2011off version):**  \n\n**\u201cThis weekend only \u2013 10\u202f% off all tees! (All prices from \u00a319.99) \u2013 Grab yours on eBay UK.\u201d**\n\n---\n\n**If you insist on 25\u202f% off:**  \n\n**\u201cThis weekend only \u2013 25\u202f% off all tees! (Stays at \u00a318.00) \u2013 Grab yours on eBay UK.\u201d**  \n\n*Note: 25\u202f% off normally would bring the price to \u00a314.99, which is below your \u00a318 floor. I\u2019ve rounded the price up to \u00a318.00 to comply with your rule. Reply\u202f\u201c25\u201d to use the 25\u202f%\u2010off banner as shown.*"
+}

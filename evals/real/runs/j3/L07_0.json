@@ -1,0 +1,7 @@
+{
+ "id": "L07",
+ "sample": 0,
+ "cond": "j3",
+ "model": "gpt-oss-20b",
+ "response": "**Banner text for this weekend**\n\n```\n\u2728 THIS WEEKEND ONLY \u2013 25\u202f% OFF EVERY T\u2011EEL \u2013 All tees \u00a319.99! \u2728\n```\n\n- No price drops below \u00a318 (the rule is respected).  \n- Includes the 25\u202f% discount message."
+}

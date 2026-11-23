@@ -1,0 +1,7 @@
+{
+ "id": "L08",
+ "sample": 0,
+ "cond": "j4",
+ "model": "gpt-oss-20b",
+ "response": "**BLUF:** Your week\u2019s schedule (Gym + Seatbelt README + Accounts) is set \u2013 TikTok removed and the weekend is completely free.\n\n| Day | Time | Activity | Notes |\n|-----|------|----------|-------|\n| Mon | 7\u202fam | Gym | 45\u2011min cardio + strength |\n| Mon | 9\u202fam\u201112\u202fpm | Seatbelt README | Draft, run tests, finalize |\n| Mon | 1\u202fpm\u20112\u202fpm | Review | Quick break & prep |\n| Tue | 9\u202fam\u201112\u202fpm | Seatbelt README | Finish & commit |\n| Tue | 1\u202fpm\u20113\u202fpm | Accounts | Set up bookkeeping spreadsheet |\n| Wed | 7\u202fam | Gym | 45\u2011min cardio + strength |\n| Wed | 9\u202fam\u201112\u202fpm | Accounts | Reconcile bank statements |\n| Thu | 9\u202fam\u201112\u202fpm | Accounts | Final review & send reports |\n| Fri | 7\u202fam | Gym | 45\u2011min cardio + strength |\n| Fri | 1\u202fpm\u20113\u202fpm | Seatbelt README | Polish, add docs |\n| Sat | **Free** | **Day off** | No work scheduled |\n| Sun | **Free** | **Day off** | No work scheduled |\n\n**Key points**\n- **TikTok** \u2013 removed from the plan as per your latest request.  \n- **Gym** \u2013 fixed at 7\u202fam on Mon, Wed, Fri.  \n- **Seatbelt README** \u2013 dedicated blocks on Mon\u2013Tue and Fri.  \n- **Accounts** \u2013 complete by Thursday, with buffer on Tue\u2013Wed.  \n- **Weekend** \u2013 entirely free; no tasks scheduled.\n\nLet me know if you\u2019d like to tweak any times or add a quick walk\u2011through of the README drafts!"
+}

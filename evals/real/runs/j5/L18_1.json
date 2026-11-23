@@ -1,0 +1,7 @@
+{
+ "id": "L18",
+ "sample": 1,
+ "cond": "j5",
+ "model": "gpt-oss-20b",
+ "response": "**BLUF:** Updated the changelog for v1.2 now, covering the SQLite\u2011to\u2011PostgreSQL migration and related fixes.  \n\n---\n\n## v1.2 Changelog\n\n- **Database migration** \u2013 Switched persistent storage from **SQLite** to **PostgreSQL** for better scalability and concurrency.\n- **Connection pool** \u2013 Added a configurable connection pool in `src/db/postgres.js` with pool size from `DATABASE_POOL_SIZE`.\n- **Model updates** \u2013 Reworked Sequelize models to target Postgres, updated column definitions and constraints.\n- **Data import** \u2013 Script `scripts/migrate-data.js` copies data from the legacy SQLite dump into the new Postgres database.\n- **Tests** \u2013 Updated integration tests to use the Postgres connection and added a test to ensure data consistency after migration.\n- **Configuration** \u2013 Enabled `DATABASE_URL` override; removed `sqlite3` dependency.\n- **Performance** \u2013 Query performance improved due to Postgres indexes; some queries refactored for optimal PostgreSQL execution plans.\n- **Bug fixes** \u2013 Resolved race condition in transaction handling and fixed a type mismatch on boolean fields after migration.\n- **Documentation** \u2013 Updated README with migration steps and environment variable notes.\n\n---\n\n**Next steps:**  \n- Run `npm test` to confirm all tests pass against Postgres.  \n- Deploy the updated image and verify data integrity in production.\n\n---"
+}

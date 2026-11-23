@@ -1,0 +1,7 @@
+{
+ "id": "L04",
+ "sample": 2,
+ "cond": "none",
+ "model": "gpt-oss-20b",
+ "response": "On a normal local\u2011storage machine the operation is **virtually instantaneous** \u2013 the rename command just updates the filename entry in the filesystem\u2019s directory structure. Even if you have a few hundred or a few thousand images, the entire batch will finish in a few milliseconds.\n\nThe only non\u2011trivial component is communicating with the underlying storage:\n\n| Scenarios | Typical [when the rename is executed] | Rough time (per rename) |\n|-----------|----------------------------------------|-------------------------|\n| **Local SSD/HDD** | Command issued from your terminal or script | < 1\u202fms |\n| **Network\u2011attached (NAS / cloud storage)** | Each rename triggers a network I/O operation | 10\u201350\u202fms (depends on latency / service) |\n| **API\u2011driven\u2014e.g., AWS S3, Google Cloud Storage** | Upload\u2011download cycle (rename not a native op) | 200\u202fms\u20131\u202fs per file (API overhead + latency) |\n\nSo, for a directory with, say, 100 images:\n- **Local** \u2013 < 0.1\u202fs total  \n- **NAS or on\u2011prem network** \u2013 ~10\u202fs total  \n- **S3/Cloud** \u2013 ~20\u2013100\u202fs total\n\nIf the rename is a bulk operation in a script that keeps the connection alive (or uses a bulk\u2011move API), the per\u2011file cost diminishes and the whole job will finish within the limits of the storage medium."
+}

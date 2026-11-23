@@ -1,0 +1,7 @@
+{
+ "id": "L20",
+ "sample": 1,
+ "cond": "j1",
+ "model": "gpt-oss-20b",
+ "response": "**LIN**  \nWe\u2019re a made\u2011to\u2011order tee shop in Manchester, hand\u2011printing each shirt to order so nothing is ever mass\u2011produced.  \nOur team blends local character with sustainable fabrics, ensuring every shirt looks as good as it feels.  \nFrom bold graphic tees to subtle, classic designs, we\u2019ll make every item uniquely yours.  \n\n**R1** draft finished.  \n**R2** Manchester added.  \n**R3** colour choice \u2013 either navy (classic) or burgundy (bold). Pick one and I\u2019ll update the copy."
+}

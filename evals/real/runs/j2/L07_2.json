@@ -1,0 +1,7 @@
+{
+ "id": "L07",
+ "sample": 2,
+ "cond": "j2",
+ "model": "gpt-oss-20b",
+ "response": "**R1 (Rule)**: *Never discount any tee below \u00a318.*  \n**R2 (Banner draft)**: \u201cEnjoy the weekend! 25% off everything!\u201d  \n**R3 (Correction)** \u2013 25% off would bring a \u00a319.99 tee to \u00a314.99, below the \u00a318 floor.  \n**Answer:** I\u2019ll craft the banner using a discount that keeps each tee at \u00a318 or higher.  \n\n**Banner text options (all tees stay \u2265\u202f\u00a318):**\n\n1. \u201cThis weekend only: 25% off *every* tee, but keep your price at \u00a318!\u201d  \n2. \u201cWeekend special \u2013 a 25% discount on all tees, price stays at \u00a318 (minimum).\u201d  \n3. \u201cEnjoy 25% off on all tees \u2013 \u00a318 is the lowest we\u2019ll go this weekend!\u201d  \n\nLet me know which wording you prefer or if you\u2019d like a different discount that still respects the \u00a318 floor."
+}

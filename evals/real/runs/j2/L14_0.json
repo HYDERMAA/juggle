@@ -1,0 +1,7 @@
+{
+ "id": "L14",
+ "sample": 0,
+ "cond": "j2",
+ "model": "gpt-oss-20b",
+ "response": "**BULLET\u2011IN\u2011FIRST\u2011LINE**  \nHere are three fresh name ideas for your rowing\u2011club\u2011style tee shop, plus a quick way to check each one on eBay.\n\n| Suggestion | Quick eBay check |\n|------------|------------------|\n| **Riverview Row Tees** | Search \u201cRiverview Row Tees\u201d in eBay\u2019s search bar \u2192 clean results = likely free |\n| **Stroke & Style Apparel** | Search \u201cStroke & Style Apparel\u201d \u2192 if no exact listings \u2192 likely free |\n| **Coxed Chic Threads** | Search \u201cCoxed Chic Threads\u201d \u2192 if no identical titles \u2192 likely free |\n\n**How to verify quickly**  \n1. Open eBay \u2192 type the exact name in the search box.  \n2. If no listings show up with that exact title (i.e., 0 results) the name is unlikely taken.  \n3. For extra safety, also check the \u201cBuy it Now\u201d and \u201cAuction\u201d tabs; if still none, the name is free.  \n\n**Ledger**  \n- Done: R1 \u2013 3 name ideas + eBay check instructions.  \n- Next: none."
+}

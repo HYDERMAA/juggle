@@ -1,0 +1,7 @@
+{
+ "id": "L11",
+ "sample": 0,
+ "cond": "j5",
+ "model": "gpt-oss-20b",
+ "response": "**LinkedIn post**\n\nWe're excited to announce **Seatbelt\u202fv3** \u2014 the next generation of our free \u201cno\u2011code AI app builder.\u201d  \n\n+ \ud83d\ude80 **New features**:  \n  * More pre\u2011built templates  \n  * Easier data\u2011linking tools  \n  * Built\u2011in AI safety checks to keep your code secure  \n\n+ \ud83d\udd12 **Safety first**  \n  Seatbelt v3 is designed for non\u2011developers, so you can focus on your idea while we handle the code\u2011generation risks.\n\n+ \ud83c\udf81 **Absolutely free**  \n  You can try Seatbelt v3 today, no credit card required. Start building, test, and iterate without any cost.\n\nGive it a go and let us know what you create!   #NoCode #AI #AppDevelopment #SeatbeltV3"
+}

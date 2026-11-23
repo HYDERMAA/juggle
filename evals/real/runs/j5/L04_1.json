@@ -1,0 +1,7 @@
+{
+ "id": "L04",
+ "sample": 1,
+ "cond": "j5",
+ "model": "gpt-oss-20b",
+ "response": "**Done:** Renamed 3 product photos to the `brand-design-colour.jpg` format and delivered the new file names below.\n\n| Old file | New file |\n|----------|----------|\n| IMG_2231.jpg | faded-archive-brackwell-navy.jpg |\n| IMG_2232.jpg | faded-archive-ashcombe-bay-white.jpg |\n| IMG_2233.jpg | faded-archive-brackwell-grey.jpg |\n\n**Answer to your question:** Renaming the three files and generating the list takes less than 10\u202fseconds on a typical development machine."
+}

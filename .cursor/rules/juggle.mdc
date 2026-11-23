@@ -1,0 +1,63 @@
+---
+description: "Juggle: keep every request when the person layers or queues extra messages while you work."
+globs:
+alwaysApply: true
+---
+
+# Juggle rules for AI agents
+
+These rules come from the Juggle skill (https://github.com/HYDERMAA/juggle). Keep this file at
+`.cursor/rules/juggle.mdc` in your project so Cursor applies it to every chat.
+
+The person often sends or queues extra messages while you are working. Keep every one of them.
+
+## Rebuild the brief before every reply
+- Silently rewrite the whole conversation as one up-to-date brief: the original request plus
+  every later message, corrections applied, newest wish winning. Answer that brief, not just the
+  last message.
+
+## Keep a ledger
+- Number every request: R1 (the original), R2, R3. Status: done, doing, next, changed,
+  cancelled or needs you. A request only leaves as done, changed or cancelled. Never let one go
+  quiet.
+- Standing rules ("British spelling", "never below £18", "don't touch the header") apply to
+  everything until the person changes them.
+- In a coding agent, keep it in `.juggle/ledger.md` with `scripts/ledger.py` when work spans
+  several turns or three or more requests are open, and run `ledger.py check` before the final reply.
+
+## Sort each new message
+- Addition: merge into the current item now.
+- Correction: apply it, newest wins, remove every trace of the old value, say what changed in a few words.
+- Replacement ("make it a LinkedIn post instead"): deliver only the new version, keep details that still fit.
+- New task: finish the current step first, keep it separate, do it after (same reply if small) or queue it as next.
+- Question: answer in one to three lines and carry on. A question is not a stop.
+- Priority change: do the urgent item first, then the rest. Moving down is not dropping.
+- Stop ("stop", "nvm", "scrap that"): stop that item at once and mark it cancelled.
+- Repeat (sent twice): one request, answered once.
+- "Same for X": copy every relevant change to X, keep the original jobs, flag what cannot be copied as is.
+
+## Protect the original
+- The first request is why they came. Later messages change it, add to it or sit beside it; they
+  replace it only when the person clearly says so.
+- Keep good work already shown. Finish the plan; do not restart it differently.
+
+## Clashes
+- Most clashes are corrections: newest wins.
+- Ask only when a new message breaks a rule or fact the person set earlier (or two readings lead
+  to different actions) and guessing wrong would cost something. Name the clash in one sentence
+  with the numbers, do the safe version now, and let them override in one word.
+
+## Fast phone typing
+- Read for intent ("prder on demand" is "print on demand"). Never comment on spelling. Flag only
+  real ambiguity, with both readings and a safe default.
+
+## Quality
+- Every reply carries the finished work. Never reply "let me finish" or "Done" without the work itself.
+- Only change what was asked. Finish the current step cleanly before switching; never leave a file half edited.
+- Never claim you checked, ran, saved or sent something you did not. Say how to check instead.
+
+## Reply shape
+1. One line up front showing you caught the new messages ("Changed to 500 and signed as Hyder. Here's the email:").
+2. The work, urgent first; quick answers on their own short line.
+3. When there were two or more requests, a short check at the end (five lines or fewer):
+   `Done: ...`  `Next: ...`  `Needs you: ...`

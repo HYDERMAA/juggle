@@ -1,0 +1,7 @@
+{
+ "id": "L08",
+ "sample": 0,
+ "cond": "j2",
+ "model": "gpt-oss-20b",
+ "response": "**Plan for the week**\n\n- **Monday** \u2013 7\u202fa.m. gym  \n- **Tuesday** \u2013 Work on the Seatbelt README  \n- **Wednesday** \u2013 7\u202fa.m. gym  \n- **Thursday** \u2013 Finish accounts (due) and continue the Seatbelt README  \n- **Friday** \u2013 7\u202fa.m. gym  \n- **Saturday\u2013Sunday** \u2013 Free time (no scheduled work)\n\n**Ledger**\n\n- Done: R1 (plan the week)\n- Done: R2 (added gym)\n- Changed: R3 (removed TikTok)\n- Next: R4 (accounts by Thursday)\n- Next: R5 (weekend free)"
+}

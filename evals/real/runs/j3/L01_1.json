@@ -1,0 +1,7 @@
+{
+ "id": "L01",
+ "sample": 1,
+ "cond": "j3",
+ "model": "gpt-oss-20b",
+ "response": "**BLUF**\u2014Three fresh eBay titles for the Brackwell Rowing Club tee (one navy, none use \u201cvintage\u201d).  \n\n| # | Title (\u226480 chars) |\n|---|-------------------|\n| 1 | Brackwell Rowing Club Tee \u2013 Made\u2011to\u2011Order, Club Exclusive |\n| 2 | Brackwell Rowing Club Tee \u2013 Custom White, Premium Comfort |\n| 3 | Brackwell Rowing Club Tee \u2013 Custom Navy, Exclusive Design |\n\nAll titles stay under 80 characters and avoid the prohibited word \u201cvintage.\u201d"
+}

@@ -1,0 +1,7 @@
+{
+ "id": "L07",
+ "sample": 0,
+ "cond": "j2",
+ "model": "gpt-oss-20b",
+ "response": "**Banner text (25\u202f% off, but all tees stay \u00a318 minimum)**  \n\n---  \n**\u201cAll tees 25\u202f% OFF \u2013\u202fnow only \u00a318\u202feach!\u201d**  \n---  \n\n*(All items are originally \u00a319.99; the discounted price is rounded up to the \u00a318 floor.)*"
+}

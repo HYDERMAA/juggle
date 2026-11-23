@@ -1,0 +1,7 @@
+{
+ "id": "L01",
+ "sample": 1,
+ "cond": "j4",
+ "model": "gpt-oss-20b",
+ "response": "**Updated eBay titles (max 80\u202fchars, no \u201cvintage\u201d)**  \n\n1. \u201cBrackwell Rowing Club Men\u2019s T\u2011Shirt \u2013 White, Size L \u2013 Made\u2011to\u2011Order\u201d  \n2. \u201cBrackwell Rowing Club Women\u2019s Tee \u2013 White, Size M \u2013 Custom Prints\u201d  \n3. \u201cBrackwell Rowing Club Crew T\u2011Shirt \u2013 White, Size XL \u2013 Order Now\u201d  \n4. \u201cBrackwell Rowing Club Navy Crew T\u2011Shirt \u2013 Size S \u2013 Made\u2011to\u2011Order\u201d"
+}

@@ -1,0 +1,7 @@
+{
+ "id": "L13",
+ "sample": 2,
+ "cond": "j2",
+ "model": "gpt-oss-20b",
+ "response": "**BLUF:** Added mention of AI\u2011built app to your cover letter. Here's the updated version.\n\nDear Hiring Team,\n\nI am excited to apply for the Junior Product Designer position at Monzo. Although my background began in the hospitality sector, I have spent the last two years developing a passion for design and product thinking. While working as a barista, I honed my ability to observe user needs, manage complex workflows, and deliver consistent, high\u2011quality service\u2014skills that translate directly to product design.\n\nDriven by curiosity, I taught myself Figma and created an AI\u2011powered app that streamlines coffee\u2011ordering experiences by predicting user preferences. This project sharpened my skills in wireframing, prototyping, and iterative testing, and it reinforced my belief that thoughtful design can make everyday tasks effortless.\n\nAt Monzo, I am eager to bring my blend of frontline user empathy, self\u2011paced learning, and data\u2011driven design to help build intuitive, delightful banking experiences. I look forward to discussing how my unique journey can contribute to Monzo\u2019s mission of redefining the way people manage money.\n\nThank you for your consideration.\n\nSincerely,  \n[Your Name]"
+}

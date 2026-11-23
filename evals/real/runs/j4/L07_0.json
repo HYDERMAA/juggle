@@ -1,0 +1,7 @@
+{
+ "id": "L07",
+ "sample": 0,
+ "cond": "j4",
+ "model": "gpt-oss-20b",
+ "response": "**BLUF:** The banner says \u201c25\u202f% off everything\u201d but that would drop the price below your \u00a318 floor. I\u2019ve drafted a safe version that stays above \u00a318 and I\u2019m asking if you want to override it.\n\n**Banner text (safe version)**  \n> \u201cLast\u2011Weekend Sale \u2013 25\u202f% Off All Tees  \n>  (All prices stay at \u00a318 minimum)\u201d\n\nIf you prefer a flat 25\u202f% discount, let me know and I\u2019ll adjust it to reflect a lower price (you\u2019ll need to confirm the exact price)."
+}

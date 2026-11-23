@@ -1,0 +1,7 @@
+{
+ "id": "L17",
+ "sample": 1,
+ "cond": "none",
+ "model": "gpt-oss-20b",
+ "response": "**Step\u2011by\u2011step calculation**\n\n| Item | Formula | Value | Rounds to |\n|------|---------|-------|-----------|\n| Selling price | \u2013 | \u00a319.99 | \u2013 |\n| eBay selling\u2011flow fee | 12.8\u202f% of price | 0.128\u202f\u00d7\u202f\u00a319.99 = \u00a32.559 | \u00a32.56 |\n| eBay payment fee | 30\u202fp | \u00a30.30 | \u2013 |\n| eBay promoted\u2011listings fee | 2.5\u202f% of price | 0.025\u202f\u00d7\u202f\u00a319.99 = \u00a30.49975 | \u00a30.50 |\n| **Total eBay fees** | \u00a32.56\u202f+\u202f\u00a30.30\u202f+\u202f\u00a30.50 = \u00a33.36 | \u2013 |\n| Printful product cost | \u2013 | \u00a312.95 | \u2013 |\n| **Total cost per tee** | \u00a312.95\u202f+\u202f\u00a33.36 = \u00a316.31 | \u2013 |\n\n**Profit per tee**\n\n\\[\n\\text{Profit} = \\text{Selling price} - \\text{Total cost} = \u00a319.99 - \u00a316.31 = \u00a33.68\n\\]\n\nSo you make **\u00a33.68 profit per T\u2011shirt** after all fees and production costs."
+}

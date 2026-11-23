@@ -1,0 +1,7 @@
+{
+ "id": "L08",
+ "sample": 0,
+ "cond": "j5",
+ "model": "gpt-oss-20b",
+ "response": "**BLUF:**  \nYour week is scheduled with gym sessions at 7\u202fam on Mon, Wed, Fri; the Seatbelt README will be tackled from early Monday through Wednesday, accounts work slated for Tuesday\u2011Thursday, with the weekend completely free.\n\n**Schedule**\n\n| Day | Morning (7:00\u202fam) | Mid\u2011day | Evening |\n|-----|-------------------|---------|---------|\n| **Mon** | Gym | Review & edit Seatbelt README (2\u202fhrs) | Light follow\u2011up / emails |\n| **Tue** |  | Work on accounts (3\u202fhrs) | Finish any remaining Seatbelt notes |\n| **Wed** | Gym | Continue Seatbelt README (2\u202fhrs) | Prep next\u2011week tasks |\n| **Thu** |  | Finish accounts (2\u202fhrs) | Final review, submit |\n| **Fri** | Gym | Quick catch\u2011up, plan for next week | |\n| **Sat** | **Free** | **Free** | **Free** |\n| **Sun** | **Free** | **Free** | **Free** |\n\n**Notes**\n\n- No TikTok this week.\n- Weekend (Sat\u2011Sun) kept free as requested. \n- Adjust any meeting times to fit the above blocks; if a meeting encroaches, move it to a free slot or shift the workspace time slightly earlier/later.\n\nLet me know if anything needs tweaking!"
+}

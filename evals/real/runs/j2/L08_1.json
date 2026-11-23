@@ -1,0 +1,7 @@
+{
+ "id": "L08",
+ "sample": 1,
+ "cond": "j2",
+ "model": "gpt-oss-20b",
+ "response": "**BLUF:** Week plan set\u2014Seatbelt README on\u202fMon, accounts by\u202fThu, gym\u202fMon\u202fWed\u202fFri\u202f7\u202fam, no TikTok, weekend free.  \n\n**Plan**\n\n| Day | Tasks |\n|-----|-------|\n| **Mon** | 7\u202fam Gym | Finish Seatbelt README (deadline) |\n| **Tue** | 9\u202fam\u201311\u202fam: Work on accounts (aim to finish by Thu) |\n| **Wed** | 7\u202fam Gym | Continue/finish Seatbelt README if needed |\n| **Thu** | Finish accounts; review Seatbelt README |\n| **Fri** | 7\u202fam Gym | Wrap up Seatbelt README & final account cleanup |\n| **Sat\u2011Sun** | *Free* |\n\n**Key notes**\n\n- No TikTok recorded this week.  \n- Weekend remains free.  \n- Account work is targeted before Thursday to meet the due\u2011date."
+}

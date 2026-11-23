@@ -1,0 +1,7 @@
+{
+ "id": "L11",
+ "sample": 1,
+ "cond": "j5",
+ "model": "gpt-oss-20b",
+ "response": "\ud83d\udd10 **Seatbelt\u202fv3 is officially live!**  \n\nI\u2019m thrilled to announce the newest release of **Seatbelt** \u2013 the free skill that empowers non\u2011developers to build safe, AI\u2011powered apps without writing a single line of code. \ud83d\ude80  \n\n> \u201cWhy code when you can *design*?\u201d  \n> Seatbelt lets you:  \n> \u2022 **Choose templates** that match your business flow  \n> \u2022 **Set security rules** in plain language  \n> \u2022 **Add AI logic** with drag\u2011and\u2011drop blocks  \n> \u2022 **Deploy instantly** with built\u2011in safety checks  \n\nWhat sets Seatbelt v3 apart?  \n* **Zero coding** \u2013 anyone can prototype in minutes.  \n* **Built\u2011in AI safeguards** \u2013 your app won\u2019t let unverified inputs slip through.  \n* **Self\u2011hosting** \u2013 keep your data local and secure.  \n\nBecause I believe great tools shouldn\u2019t cost you, Seatbelt remains **100\u202f% free**. No trial, no hidden fees, just pure, open\u2011source power for creators of all skill levels.  \n\n\ud83d\udee0\ufe0f **Ready to try?**  \n1. Install Seatbelt via the [official repo](https://github.com/yourrepo/seatbelt\u2011v3).  \n2. Follow the quick\u2011start guide and build your first app in under 10\u202fminutes.  \n\nIf you\u2019re curious or need help, drop a comment or DM me. Let\u2019s build safer, smarter applications together!  \n\n#AI #NoCode #OpenSource #SeatbeltV3 #AppDevelopment #FreeTools #TechForAll"
+}

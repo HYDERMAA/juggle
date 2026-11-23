@@ -1,0 +1,7 @@
+{
+ "id": "L04",
+ "sample": 1,
+ "cond": "j4",
+ "model": "gpt-oss-20b",
+ "response": "**Estimated time needed:** about 5\u202fminutes total \u2013 roughly 40\u202fseconds per file (rename + list)."
+}

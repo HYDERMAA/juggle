@@ -1,0 +1,7 @@
+{
+ "id": "L15",
+ "sample": 1,
+ "cond": "j3",
+ "model": "gpt-oss-20b",
+ "response": "**Reply to Sam**\n\nHi Sam,\n\nThank you for reaching out. Your order (1042) was posted on Tuesday via Royal Mail and should arrive in the next 2\u20133 working days. If you haven\u2019t received it by then, please let me know and I\u2019ll gladly track it for you.\n\nBest regards,  \n[Your Name]"
+}

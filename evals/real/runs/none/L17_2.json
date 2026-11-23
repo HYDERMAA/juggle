@@ -1,0 +1,7 @@
+{
+ "id": "L17",
+ "sample": 2,
+ "cond": "none",
+ "model": "gpt-oss-20b",
+ "response": "### Profit calculation\n\n| Item | Cost / Amount | Explanation |\n|------|---------------|-------------|\n| **Selling price (eBay)** | **\u00a319.99** | You receive this before fees. |\n| **eBay final\u2011value fee** | 12.8\u202f% of \u00a319.99 = **\u00a32.559** | (0.128\u202f\u00d7\u202f19.99) |\n| **Payment processing fee (eBay PayPal)** | 30\u202fp | Standard flat fee. |\n| **Printful production cost** | **\u00a312.95** | Cost for the tee and printing. |\n| **Promoted listing fee** | 2.5\u202f% of \u00a319.99 = **\u00a30.49975** | Rounds to **\u00a30.50**. |\n| **Total deductions** |  \u00a32.559 + \u00a30.30 + \u00a312.95 + \u00a30.50 = **\u00a316.309** |\n\n| Item | Value |\n|------|-------|\n| **Gross revenue** | \u00a319.99 |\n| **Total deductions** | \u00a316.309 |\n| **Net profit** | **\u00a33.681** |\n\n---\n\n### Rounded result\n- **Profit per tee**: **\u2248\u202f\u00a33.68** (you can also keep it at \u00a33.68 or \u00a33.68\u202f\u00a3 if you want a non\u2011round figure).\n\n---\n\n### Quick reference\n1. **Selling price:** \u00a319.99  \n2. Subtract:\n   * 12.8\u202f% eBay fee  \n   * 30\u202fp fixed fee  \n   * 2.5\u202f% promoted fee  \n   * Printful cost (\u00a312.95)  \n3. **Result:** \u00a33.68 profit per tee."
+}

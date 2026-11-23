@@ -1,0 +1,7 @@
+{
+ "id": "L19",
+ "sample": 0,
+ "cond": "j3",
+ "model": "gpt-oss-20b",
+ "response": "Changed on the UK about page: 'archieve' \u2192 'archive'.  \nPrice updated to \u00a324.99 on the UK shop.  \nPrice updated to $24.99 on the US shop."
+}

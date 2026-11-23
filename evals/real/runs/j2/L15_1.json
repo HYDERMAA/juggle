@@ -1,0 +1,7 @@
+{
+ "id": "L15",
+ "sample": 1,
+ "cond": "j2",
+ "model": "gpt-oss-20b",
+ "response": "**Reply to Sam (Order\u202f1042)**  \n\nHi Sam,\n\nThanks for reaching out. Your order was dispatched via Royal Mail on Tuesday, so it was sent out the following day. Royal Mail\u2019s typical delivery window for a regular post is 1\u20133 business days, so you should expect it to arrive soon. If it hasn\u2019t been received within that timeframe or if you notice any issues, please let me know and I\u2019ll investigate right away.\n\nFeel free to reply if you have any other questions.\n\nBest,  \n[Your Name]  \n[Shop Name]"
+}

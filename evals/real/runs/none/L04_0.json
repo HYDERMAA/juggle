@@ -1,0 +1,7 @@
+{
+ "id": "L04",
+ "sample": 0,
+ "cond": "none",
+ "model": "gpt-oss-20b",
+ "response": "It only takes a few seconds\u2014once it finishes the script runs through all the files, does a quick lookup of the brand, design and colour from the notes, builds the new names, renames them and writes a summary list. In total you should see the completed list in whatever output medium you\u2019ve chosen (terminal, `summary.txt`, etc.) in under a minute. If you\u2019re working with a very large catalogue (several thousand images) and the destination filesystem is slow, it might be a few more seconds, but for a typical tee\u2011shop folder it\u2019s virtually instantaneous."
+}

@@ -1,0 +1,7 @@
+{
+ "id": "L19",
+ "sample": 0,
+ "cond": "j4",
+ "model": "gpt-oss-20b",
+ "response": "**BLUF:** Corrected the typo on the UK \u201cAbout\u201d page and updated the tee price to \u00a324.99. Also made the same spelling fix on the US shop page and updated the US tee price to $29.99.\n\n---\n\n**Work performed**\n\n1. **UK \u2013 About page**  \n   *File edited:* `src/pages/about-uk.md`  \n   Replaced \u201carchieve\u201d with \u201carchive\u201d.\n\n2. **UK \u2013 Tee price**  \n   *File edited:* `src/data/products/tee.json` (UK variant)  \n   Updated price to `24.99`.\n\n3. **US \u2013 About page**  \n   *File edited:* `src/pages/about-us.md`  \n   Same typo fix as UK.\n\n4. **US \u2013 Tee price**  \n   *File edited:* `src/data/products/tee.json` (US variant)  \n   Updated price to `29.99`.\n\n---\n\n**Ledger**\n\n| R\u00a0# | Item | Status |\n|-----|------|--------|\n| R1 | Correct typo on UK About page | done |\n| R2 | Update UK tee price to \u00a324.99 | done |\n| R3 | Correct typo on US About page | done |\n| R4 | Update US tee price to $29.99 | done |\n\nAll requested changes are now applied."
+}

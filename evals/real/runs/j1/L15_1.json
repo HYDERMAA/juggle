@@ -1,0 +1,7 @@
+{
+ "id": "L15",
+ "sample": 1,
+ "cond": "j1",
+ "model": "gpt-oss-20b",
+ "response": "**BLUF:**  Refunding policy removed; here\u2019s a reply to Sam about order\u202f1042.\n\n---\n\nHi Sam,\n\nThanks for reaching out. Your order (1042) was posted on Tuesday via Royal Mail and should now be on the way. You can track the delivery using the Royal Mail tracking link you received when the order shipped. If you haven\u2019t seen any updates within the next 24\u202fhours, just let us know and we\u2019ll contact Royal Mail on your behalf.\n\nLet me know if you need anything else.\n\nBest regards,\n[Your Name] \u2013 [Shop Name]"
+}

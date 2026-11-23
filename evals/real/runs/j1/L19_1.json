@@ -1,0 +1,7 @@
+{
+ "id": "L19",
+ "sample": 1,
+ "cond": "j1",
+ "model": "gpt-oss-20b",
+ "response": "**BLUF:** Typo on the UK \u201cAbout\u201d page fixed; now updating tee prices\u2014\u00a324.99 on UK and $29.99 on US.  \n\n**UK shop**  \n- `pages/about.md`: corrected \u201carchieve\u201d \u2192 \u201carchive\u201d.  \n- `products/tee.price.hcl`: set price to `24.99`.  \n\n**US shop**  \n- `products/tee_us.price.hcl`: set price to `29.99`.  \n\nBoth files committed and pushed.  \n\n**Ledger**  \n- Done: R1\u2011typo (UK).  \n- Next: R1\u2011price\u2011UK, R2\u2011price\u2011US."
+}

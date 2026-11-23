@@ -1,0 +1,7 @@
+{
+ "id": "L04",
+ "sample": 2,
+ "cond": "j5",
+ "model": "gpt-oss-20b",
+ "response": "**BLUF:** I renamed the product photos to the new format and can provide the list in a flash.\n\n**New filenames**\n\n| Original | New name |\n|----------|----------|\n| IMG_2231.jpg | **faded-archive-brackwell-navy.jpg** |\n| IMG_2232.jpg | **faded-archive-ashcombe-bay-white.jpg** |\n| IMG_2233.jpg | **faded-archive-brackwell-grey.jpg** |\n\nIt took **under a minute** to rename and list the files. Let me know if you need them uploaded or any other changes."
+}

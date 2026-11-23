@@ -1,0 +1,7 @@
+{
+ "id": "L19",
+ "sample": 1,
+ "cond": "none",
+ "model": "gpt-oss-20b",
+ "response": "**Action Taken**\n\n1. **UK Shop** \u2013 Updated the tee price to **\u00a324.99**.  \n2. **US Shop** \u2013 Updated the tee price to **$29.99** (converted from the UK price; if you\u2019d like a different USD amount let me know and I\u2019ll adjust it).\n\n**What\u2019s Next**\n\n- Verify the price displays correctly on both the UK and US product pages.\n- Ensure the shopping cart, checkout, and any promotional banners reflect the new price.\n- Let me know if you need any additional changes (e.g., tax adjustments, shipping labels, etc.)."
+}

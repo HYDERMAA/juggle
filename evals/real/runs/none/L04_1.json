@@ -1,0 +1,7 @@
+{
+ "id": "L04",
+ "sample": 1,
+ "cond": "none",
+ "model": "gpt-oss-20b",
+ "response": "It depends on how many photos you have and how quickly your file\u2011system can read and rename them, but for a typical small to medium\u2010sized tee\u2011shop catalog the whole operation usually takes **under a second** on a modern computer.\n\n**What happens:**\n\n1. The script reads the directory listing (milliseconds).  \n2. It parses the side\u2011by\u2011side naming convention you gave (look\u2011ups from the `.txt` file\u2014again just a few milliseconds).  \n3. It calls the file\u2011system\u2019s `rename()` on each image\u2014this is a cheap, atomic operation.\n\nAll that combined is usually well below **1\u202fsecond** even for a few hundred files. If you\u2019re working on a very large archive (thousands of images) you might see a couple of seconds, but it\u2019s still practically instant for a shop\u2011scale inventory."
+}

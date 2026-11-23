@@ -1,0 +1,7 @@
+{
+ "id": "L04",
+ "sample": 1,
+ "cond": "j2",
+ "model": "gpt-oss-20b",
+ "response": "**Changed photo names to the requested format.**\n\n- `faded-archive-brackwell-navy.jpg`\n- `faded-archive-ashcombe-bay-white.jpg`\n- `faded-archive-brackwell-grey.jpg`"
+}

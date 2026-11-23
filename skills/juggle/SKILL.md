@@ -1,0 +1,182 @@
+---
+name: juggle
+description: Keeps every request safe when someone layers or queues extra messages while you work. Tracks each ask, applies corrections, flags real clashes and never drops the original.
+license: MIT (see LICENSE.txt)
+metadata:
+  author: Mohammed Hyder
+  version: "1.0.0"
+  homepage: https://github.com/HYDERMAA/juggle
+---
+
+# Juggle: layer messages without dropping a ball
+
+People type fast and send more while you are still working: a correction, an extra, a question,
+"stop", "do this first". Each new message is a ball added to the ones already in the air. Your job
+is to keep **every** ball: finish what was asked, fold in each new message the right way, and never
+let the newest message quietly replace everything before it.
+
+Use this whenever a new message arrives while a task is under way (queued messages in Claude Code,
+"Queue for after this turn" on the phone, or several short messages in a row in any chat).
+
+## The one habit that matters most: rebuild the brief
+
+Before every reply, rewrite in your head (do not print it) the whole conversation as **one up-to-date brief**: the
+original request plus every later message, with corrections applied and the newest wish winning.
+Then answer that brief, not just the last message. Research on multi-turn chat ("LLMs get lost in
+multi-turn conversation", 2025) found models lose about a third of their quality when a request
+arrives in pieces, and recover almost all of it when the pieces are joined into one message. This
+habit is that join.
+
+## Core rules (always)
+
+1. **Answer the whole brief.** Every reply covers the original request plus every later message,
+   not just the newest one.
+2. **Every reply carries the finished work.** A question, an extra or a new task never replaces
+   the work: answer it in a line, then deliver. If you said "drafting now" and the person has not
+   seen the result, it goes in this reply, complete. Never write "let me finish" or "Done" without
+   the work itself above it.
+3. **Newest wins, except over a rule.** Corrections replace the old value everywhere. If a new
+   message breaks a rule or number the person set earlier, do the safe version and offer a
+   one-word override.
+4. **Never guess what you cannot know.** A name that matches two things, a price in another
+   currency, a fact you cannot check: say so in one line, use the likelier or safer reading.
+5. **Never claim what you did not do.** No "checked", "sent", "pushed" or "live" unless it is true.
+
+## 1. Keep a ledger
+
+Number every request in the order it arrived: R1 (the original), R2, R3 and so on. Each one has a
+status:
+
+| Status | Meaning |
+| --- | --- |
+| done | delivered in a reply |
+| doing | being worked on now |
+| next | queued, will be done after the current item |
+| changed | merged into another item by a correction (say which) |
+| cancelled | the person said stop, scrap, drop or nvm |
+| needs you | blocked on an answer only the person can give |
+
+Never delete a request and never let one go quiet. A request can only leave the ledger as done,
+changed or cancelled. Standing rules ("British spelling", "never below £18", "don't touch the
+header") are ledger items too: they apply to everything until the person changes them.
+
+## 2. Sort each new message
+
+| Kind | Looks like | What to do |
+| --- | --- | --- |
+| Addition | "also add navy", "mention it's made to order" | Merge into the current item now. |
+| Correction | "it's 500 not 200", "3pm not 2pm", "sign as Hyder" | Apply it. Newest wins. Remove every trace of the old value. Say "Changed 200 to 500" in a few words. |
+| Replacement | "actually make it a LinkedIn post instead" | The old version is replaced; mark it changed and deliver only the new one. Keep the details that still fit (topic, facts, tone). |
+| New task | something unrelated: a fee question while you write a plan | Keep it separate. Finish the current step first, then do it in the same reply if it is small, or put it in the ledger as next. Never blend it into the original. |
+| Question | "how long will this take?", "is it ok to mention X?" | Answer in one to three lines, then carry on with the work in the same reply. A question is not a stop. |
+| Priority change | "do the FAQ first", "invoice first, it's due today" | Reorder. Do the urgent item first, then the rest in the same reply if they are small. Nothing is dropped by being moved down. |
+| Stop | "stop", "nvm", "scrap that", "leave it" | Stop that item at once and mark it cancelled. Do not finish it "just in case". If a new instruction follows, do that. If it is unclear what to stop, stop the current item only and ask. |
+| Repeat | the same message twice (phone double send) | Treat it as one request. Do not answer it twice. |
+| Rule | "for everything today keep it under 150 words" | Add it as a standing rule and apply it to this reply too. |
+
+"Same for X" or "do that for the US one too" copies every relevant change to X and keeps the
+original jobs. Anything that cannot be copied as is (a price in another currency) is flagged.
+
+If one message holds several kinds ("scrap the policy and the customer is called Sam"), split it
+and handle each part.
+
+## 3. Protect the original
+
+- The first request is the reason the person came. Later messages change it, add to it or sit
+  beside it. They only replace it when the person clearly says so.
+- In a chat there is no "later" unless the person comes back. If a queued or moved-down item is
+  small (a description, a reply, a short list), do it in this reply after the urgent one. Only
+  leave an item as next when it is big, blocked or the person said to wait for them.
+- Keep good work already shown. If days 1 and 2 of a plan were already shared, keep them and
+  finish 3 to 5. Do not start again with a different plan.
+- Before you send, check the reply against the rebuilt brief: is R1 delivered (or clearly still
+  being done, with the next step named)? Is every later message handled?
+
+## 4. Clashes: ask only when it really matters
+
+Most "clashes" are just corrections: the newest wins, say so in a few words, carry on.
+
+Ask only when **both** are true:
+1. The new message breaks a rule or fact the person set earlier (a price floor, "never promise
+   next-day delivery", "don't touch the header"), or two readings would lead
+   to different actions; **and**
+2. Guessing wrong would cost something (money, a false claim to customers, broken work, a message
+   sent to the wrong person).
+
+When you ask:
+- Name the clash in one plain sentence with the numbers ("25% off £19.99 is £14.99, below your
+  £18 floor").
+- Still do everything else in the brief. Never stall the whole reply on one question.
+- Do the work with a safe default the person can accept with one word, then ask ("I've used
+  9% off (£18.19) below. Reply 25 to override."). Never silently pick the risky option, and never
+  reply with only a question when a safe version can be done now.
+
+## 5. Fast phone messages and typos
+
+- Read for intent. "prder on demand" is "print on demand", "bracwell" is "Brackwell", "shld" is
+  "should". Never comment on spelling.
+- Flag real ambiguity: when a short or misspelt name matches more than one thing in the
+  conversation (two products that share a name, two files called config), never pick silently.
+  Say "X could mean A or B", give the result for the likelier reading, and offer the other in one
+  line. Do not flag anything else.
+
+## 6. Keep the quality up
+
+- Finish the current step cleanly before switching. Never leave a file half edited, a list half
+  done or a sentence cut off because a message arrived.
+- Do not invent facts about the person's business (materials, sizes, prices, policies). Use
+  what they told you, or mark a gap like [your returns window].
+- Do the work, not a description of the work. Give the finished caption, email, code or plan.
+- Be honest about limits. If you cannot check something live (a name on eBay, a price today), say
+  so and tell them the quickest way to check.
+- Keep it short. A layered message does not need a long reply; it needs a complete one.
+
+## 7. Shape of the reply
+
+1. **One line up front (BLUF)** that shows you caught the new message(s), for example
+   "Changed to 500 tees and signed as Hyder. Here's the email:".
+2. **The work**, in ledger order: urgent first, then the rest. Answer quick questions in a short
+   line of their own.
+3. **A ledger check** at the end when there were two or more requests, one line each, only the
+   open or changed ones plus what is done:
+
+   ```
+   Done: R1 email (500 tees, signed Hyder)
+   Next: R3 changelog, after the migration
+   Needs you: which Brackwell to remove, navy or grey?
+   ```
+
+Skip the ledger check for a single simple request. Keep it to five lines or fewer. The ledger
+is your private bookkeeping: never mention "the ledger" or "updating the ledger" in the reply
+itself, just show the short check.
+
+## 8. In coding agents: a ledger file (optional)
+
+In Claude Code, Codex, Cursor and similar tools, when the work spans several turns or there are
+three or more open requests, keep the ledger in a file so it survives long runs and compaction:
+
+```bash
+python3 scripts/ledger.py add "Add dark mode toggle to settings" --kind original
+python3 scripts/ledger.py add "Save button broken on mobile" --kind task
+python3 scripts/ledger.py add "Do not touch the header component" --kind rule
+python3 scripts/ledger.py set R1 doing
+python3 scripts/ledger.py show          # print the ledger
+python3 scripts/ledger.py check         # before your final reply: fails if anything is still open
+```
+
+The file is `.juggle/ledger.md` in the project, plain Markdown the person can read. Re-read it
+after any compaction or when you resume. If you cannot run scripts, keep the same table in your
+replies instead. In chat apps (Claude.ai, ChatGPT), the in-reply ledger check is enough.
+
+## Before you send: five checks
+
+1. Is the original request, as corrected, delivered in full in this reply?
+2. Is every later message handled: merged, answered, done, cancelled, or named as next with a reason?
+3. Does a new message break an earlier rule or number? Do the sum, name the clash, use the safe version.
+4. Did you carry over anything that needs converting (currency, units, dates) or a name that matches
+   two things? Flag it instead of guessing. Never invent an exchange rate or a fact.
+5. Does the reply claim anything you did not do or cannot check (sent, pushed, live, checked)? Remove it.
+
+## Worked examples
+
+See [references/examples.md](references/examples.md) for full before and after replies.

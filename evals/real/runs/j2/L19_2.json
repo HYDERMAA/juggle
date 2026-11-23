@@ -1,0 +1,7 @@
+{
+ "id": "L19",
+ "sample": 2,
+ "cond": "j2",
+ "model": "gpt-oss-20b",
+ "response": "*Fixed the typo (\u201carchieve\u201d \u2192 \u201carchive\u201d) on the UK about page.*\n\n*Updated tee price to \u00a324.99 (UK).*\n\n*Updated tee price to $29.99 (US).*"
+}

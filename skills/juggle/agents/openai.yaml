@@ -1,0 +1,6 @@
+interface:
+  display_name: "Juggle"
+  short_description: "Layer messages on your AI while it works. Nothing gets dropped."
+  default_prompt: "Use Juggle: keep track of everything I ask, including messages I send while you work."
+policy:
+  allow_implicit_invocation: true

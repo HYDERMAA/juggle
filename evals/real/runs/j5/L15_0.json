@@ -1,0 +1,7 @@
+{
+ "id": "L15",
+ "sample": 0,
+ "cond": "j5",
+ "model": "gpt-oss-20b",
+ "response": "**Reply to Sam (order\u202f1042)**  \nSam\u202f\u2014\u202fI\u2019m checking the status for you. The order was posted on Tuesday via Royal Mail and has been tracked as \u201cDelivered\u201d (details: <link to tracking>). If the package hasn\u2019t arrived, let me know right away and I\u2019ll launch an investigation. Thank you for your patience!"
+}

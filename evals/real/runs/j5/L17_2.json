@@ -1,0 +1,7 @@
+{
+ "id": "L17",
+ "sample": 2,
+ "cond": "j5",
+ "model": "gpt-oss-20b",
+ "response": "**BLUF:** Profit per tee \u2248\u202f\u00a33.68 (after the updated Printful cost and promoted\u2011listing fee).  \n\n**Calc:**  \n- Sale: \u00a319.99  \n- eBay fee: 12.8\u202f%\u202f+\u202f\u00a30.30 = \u00a32.8587  \n- Promoted\u2011listing fee: 2.5\u202f% of sale = \u00a30.4998  \n- Total fees: \u00a32.8587\u202f+\u202f\u00a30.4998 = \u00a33.3585  \n- Printful cost: \u00a312.95  \n\n**Profit** = \u00a319.99\u00a0\u2013\u00a0\u00a312.95\u00a0\u2013\u00a0\u00a33.3585 \u2248 **\u00a33.68** per tee."
+}

@@ -1,0 +1,7 @@
+{
+ "id": "L19",
+ "sample": 1,
+ "cond": "j5",
+ "model": "gpt-oss-20b",
+ "response": "BLUF: Corrected \u201carchieve\u201d \u2192 \u201carchive\u201d on the UK about page and updated the tee price to \u00a324.99 on both the UK and US stores (converted to $31.99 for the US).\n\n**UK about page**\n```html\n<p>Welcome to our collection \u2013 archive of our finest tees.</p>\n```\n\n**United States store**\n```html\n// settings/product_prices.py\nTeePrice = 31.99  // $31.99 USD\n```\n\nDone: typo fix on UK about page; tee price update on both UK (\u00a324.99) and US ($31.99)."
+}

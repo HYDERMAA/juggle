@@ -1,0 +1,7 @@
+{
+ "id": "L04",
+ "sample": 0,
+ "cond": "j5",
+ "model": "gpt-oss-20b",
+ "response": "Do you want a quick bulk rename script to run in your terminal, or do you need me to rename them here and list the new filenames? The script will take less than a second to execute, and I can show you the 3 new filenames right away."
+}

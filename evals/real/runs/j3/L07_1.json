@@ -1,0 +1,7 @@
+{
+ "id": "L07",
+ "sample": 1,
+ "cond": "j3",
+ "model": "gpt-oss-20b",
+ "response": "**Hold\u2011up:** 25% off would bring the price to about \u00a314.99, which is below your \u00a318 minimum\u2011price rule.  \n\n- Do you want to keep the \u00a318 floor and show a different discount (e.g., *15% off*, *10% off*, or a flat \u00a34 discount)?  \n- Or would you like to temporarily lift the rule for this sale?  \n\nReply with the option you prefer (or a new discount amount)."
+}

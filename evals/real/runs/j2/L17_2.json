@@ -1,0 +1,7 @@
+{
+ "id": "L17",
+ "sample": 2,
+ "cond": "j2",
+ "model": "gpt-oss-20b",
+ "response": "**Profit per tee (updated):**\n\n- Sale price: \u00a319.99  \n- eBay fee: 12.8\u202f% of sale + \u00a30.30 = 0.128\u202f\u00d7\u202f19.99\u202f+\u202f0.30 = \u00a32.70\u202f+\u202f0.30 = \u00a33.00  \n- Printful cost: \u00a312.95  \n- Promo\u2011listing fee: 2.5\u202f% of sale =\u202f0.025\u202f\u00d7\u202f19.99 = \u00a30.50  \n\nTotal costs = \u00a33.00\u202f+\u202f\u00a312.95\u202f+\u202f\u00a30.50 = \u00a316.45  \n\n**Profit** = \u00a319.99\u202f\u2013\u202f\u00a316.45 = **\u00a33.54** per tee.  \n\n---\n\n**Ledger**\n\n- Done: R1 \u2013 profit calculation (\u00a33.54)  \n- Updated: R2 \u2013 Printful cost now \u00a312.95  \n- Added: R3 \u2013 promo fee applied."
+}

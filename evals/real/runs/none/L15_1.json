@@ -1,0 +1,7 @@
+{
+ "id": "L15",
+ "sample": 1,
+ "cond": "none",
+ "model": "gpt-oss-20b",
+ "response": "**Reply to Sam**\n\nHi Sam,\n\nThanks for reaching out. Your order (1042) was dispatched via Royal Mail on Tuesday and has since arrived at the local sorting centre. The next steps in the delivery chain are:\n\n| Date | Milestone | Location |\n|------|-----------|----------|\n| Tuesday | Letter leaves our shop | Royal Mail Hub |\n| Wednesday | Arrives at the regional sorting hub | ... |\n| Thursday | Handed to the local delivery office | ... |\n| Friday | Delivered / Signature required | Your address |\n\nIf it hasn\u2019t reached you by the end of today and you still haven\u2019t received a delivery confirmation, please let me know and I\u2019ll contact Royal Mail on your behalf to track the parcel and resolve any delay.\n\nFeel free to reply or give me a quick call at [Your Phone Number] if you have any other questions.\n\nThanks for your patience and for choosing us!\n\nBest regards,  \n[Your Name]  \n[Your Tee Shop]  \n[Contact Email] | [Phone]"
+}

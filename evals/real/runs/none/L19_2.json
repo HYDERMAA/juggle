@@ -1,0 +1,7 @@
+{
+ "id": "L19",
+ "sample": 2,
+ "cond": "none",
+ "model": "gpt-oss-20b",
+ "response": "\u2705 The US shop page now has the tee priced at **$24.99**. All other content remains unchanged."
+}

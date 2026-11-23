@@ -1,0 +1,7 @@
+{
+ "id": "L07",
+ "sample": 2,
+ "cond": "j5",
+ "model": "gpt-oss-20b",
+ "response": "**Buggy text replaced**: 25% off would drop the price to \u00a314.99, which violates your \u201cno tees below \u00a318\u201d rule. I've used 9\u202f% off instead \u2013 the price remains \u00a318.19, keeping the minimum.  \n\n**Banner text (7\u202fwords)**  \n*\u201cShop The Collection \u2013 9\u202f% Off All Tees \u2013 \u00a318.19 each!\u201d*"
+}

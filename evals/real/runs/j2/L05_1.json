@@ -1,0 +1,7 @@
+{
+ "id": "L05",
+ "sample": 1,
+ "cond": "j2",
+ "model": "gpt-oss-20b",
+ "response": "**Updated brief**\n\n- **R2 (urgent)** \u2013 Write a short FAQ for the shop page.  \n- **R1** \u2013 Write a product description for the Ashcombe Bay tee (white, seaside town crest design).  \n\n**FAQ**\n\n1. **What sizes are available?**  \n   The Ashcombe Bay tee comes in S, M, L, XL, and XXL. We offer a relaxed fit for men and a true\u2011to\u2011size fit for women.\n\n2. **What material is the tee made from?**  \n   100% combed and ring\u2011spun cotton, pre\u2011shrunk for a smooth, durable feel.\n\n3. **How do I care for the crest printing?**  \n   Machine wash inside out on cold, tumble dry low. Do not bleach or iron directly over the crest.\n\n4. **Can I order a custom size or color?**  \n   All Ashcombe Bay tees are standard size and color. Custom requests are not accepted for this product.\n\n5. **When will my order ship?**  \n   Orders are processed and shipped within 1\u20132 business days, excluding holidays.\n\n6. **What is your return policy?**  \n   We accept returns within 30 days of purchase for unused, unwashed items. Please visit our Returns page for full details.\n\n---\n\n**Ledger**\n\n- Done: R2 FAQ\n- Next: R1 product description (Ashcombe Bay tee)"
+}

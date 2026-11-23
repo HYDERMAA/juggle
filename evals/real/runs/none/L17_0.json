@@ -1,0 +1,7 @@
+{
+ "id": "L17",
+ "sample": 0,
+ "cond": "none",
+ "model": "gpt-oss-20b",
+ "response": "**Profit per T\u2011shirt**\n\n| Item | Cost (GBP) |\n|------|------------|\n| **Sale price** | 19.99 |\n| **Printful** |\u202f12.95 |\n| **eBay fee** (12.8\u202f% + 0.30\u202f\u00a3) | 0.128\u202f\u00d7\u202f19.99\u202f+\u202f0.30 = **2.86** |\n| **Promoted listing fee** (2.5\u202f%) | 0.025\u202f\u00d7\u202f19.99 = **0.50** |\n| **Total fees** | 2.86\u202f+\u202f0.50 = **3.36** |\n\n**Profit calculation**\n\nProfit per tee  \n= Sale price \u2013 (Printful cost + Total fees)  \n= 19.99 \u2013 (12.95\u202f+\u202f3.36)  \n\u2248 **\u00a33.68**\n\nSo each tee nets you about **\u00a33.68** profit."
+}

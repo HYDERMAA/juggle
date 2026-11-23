@@ -1,0 +1,7 @@
+{
+ "id": "L20",
+ "sample": 0,
+ "cond": "j1",
+ "model": "gpt-oss-20b",
+ "response": "**BLUF:** Revised about\u2011us now includes Manchester, and the logo should be navy blue.\n\n**About\u2011us**\n\nFaded Archive is a boutique made\u2011to\u2011order tee shop that turns your ideas into crisp, comfortable apparel. Each shirt is printed on demand, shipped fresh, and crafted from sustainable fabrics. Based in Manchester, we draw inspiration from the city\u2019s indie culture and classic design ethos, delivering unique tees that truly stand out.\n\n**Logo colour:** Navy blue. It reflects the brand\u2019s understated style and pairs well with a modern palette.  \n\n**Ledger**\n\n- Done: R1 about\u2011us (Manchester added)\n- Next: R3 logo colour (answered)"
+}

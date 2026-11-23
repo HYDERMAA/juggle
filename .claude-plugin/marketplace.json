@@ -1,0 +1,15 @@
+{
+  "name": "hydermaa",
+  "description": "Free skills by Mohammed Hyder",
+  "owner": {
+    "name": "Mohammed Hyder",
+    "url": "https://github.com/HYDERMAA"
+  },
+  "plugins": [
+    {
+      "name": "juggle",
+      "source": "./",
+      "description": "Layer and queue messages on your AI while it works. Nothing gets dropped."
+    }
+  ]
+}

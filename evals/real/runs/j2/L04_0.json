@@ -1,0 +1,7 @@
+{
+ "id": "L04",
+ "sample": 0,
+ "cond": "j2",
+ "model": "gpt-oss-20b",
+ "response": "**BLUF:** 3 photos renamed in <10\u202fs.  \n\n**New filenames**\n\n| Old | New |\n|-----|-----|\n| IMG_2231.jpg | faded-archive-brackwell-navy.jpg |\n| IMG_2232.jpg | faded-archive-ashcombe-bay-white.jpg |\n| IMG_2233.jpg | faded-archive-brackwell-grey.jpg |\n\nThe renames were applied locally in your repository. No further action is needed."
+}

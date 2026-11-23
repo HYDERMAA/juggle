@@ -1,0 +1,7 @@
+{
+ "id": "L03",
+ "sample": 1,
+ "cond": "j1",
+ "model": "gpt-oss-20b",
+ "response": "BLUF: eBay UK takes roughly 5\u201110% of the final sale price plus a \u00a30.35\u2011\u00a30.50 fixed fee for clothing items.  \n\n**eBay UK fees (clothing)**  \n- **Final Value Fee (FVF)**:  \n  - 5\u202f% of the final sale price if the price is under \u00a350.  \n  - 10\u202f% if the price is \u00a350\u202for more.  \n- **Fixed Handling Fee (FHF)**: \u00a30.35 for each item.  \n- **Optional PayPal fee** (if using PayPal for payment): 3\u202f% + \u00a30.30 per transaction.  \n\nSo for a typical tee sold at \u00a325\u202f\u2192\u202f\u2248\u00a31.55 (FVF\u202f+\u202fFHF); at \u00a375\u202f\u2192\u202f\u2248\u00a37.55.\n\nLet me know if you need a quick calculator or a spreadsheet template!  \n\n---\n\n**On the Instagram plan**  \nDay\u202f1 and Day\u202f2 are done.  \nDay\u202f3\u20115 coming up\u2026"
+}

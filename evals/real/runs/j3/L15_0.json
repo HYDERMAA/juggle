@@ -1,0 +1,7 @@
+{
+ "id": "L15",
+ "sample": 0,
+ "cond": "j3",
+ "model": "gpt-oss-20b",
+ "response": "Your email to Sam:\n\nHi Sam,\n\nThanks for reaching out. Your order (1042) was posted by Royal Mail on Tuesday. It should arrive within the next 1\u20132 business days. I\u2019ve tracked it and it\u2019s still in transit, but I\u2019ll keep an eye on it and will let you know as soon as it\u2019s in your hands.\n\nIf you have any questions or need further assistance, just let me know.\n\nBest,  \n[Your Name]  \n\n---\n\nDone: R2 customer reply (Sam)  \nCanceled: R1 refund policy draft  \n---"
+}

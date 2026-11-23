@@ -1,0 +1,7 @@
+{
+ "id": "L17",
+ "sample": 0,
+ "cond": "j5",
+ "model": "gpt-oss-20b",
+ "response": "**Profit per tee**\n\nSelling price: \u00a319.99  \neBay fee (12.8\u202f%\u202f+\u202f\u00a30.30):\u202f0.128\u202f\u00d7\u202f19.99\u202f+\u202f0.30\u202f=\u202f\u00a32.58\u202f+\u202f\u00a30.30\u202f=\u202f\u00a32.88  \nPrintful cost: \u00a312.95  \nPromoted\u2011listing fee: 2.5\u202f% of \u00a319.99\u202f=\u202f0.025\u202f\u00d7\u202f19.99\u202f=\u202f\u00a30.50  \n\nTotal deductions: \u00a32.88\u202f+\u202f\u00a312.95\u202f+\u202f\u00a30.50\u202f=\u202f\u00a316.33  \n**Profit:** \u00a319.99\u202f\u2013\u202f\u00a316.33\u202f=\u202f\u00a33.66 per tee.  \n\n---  \n\n**Ledger**  \nDone: R1 profit calculation (original) \u2192 updated with \u00a312.95 cost (R2) and \u00a30.50 promoted fee (R3).  \n\nEND."
+}

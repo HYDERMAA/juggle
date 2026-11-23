@@ -1,0 +1,7 @@
+{
+ "id": "L02",
+ "sample": 2,
+ "cond": "j2",
+ "model": "gpt-oss-20b",
+ "response": "**BLUF:** Drafted email asking Printful for a bulk discount on 500 Gildan\u202f64000 tees, signed as Hyder.\n\n---\n\n**Email**\n\nSubject: Request for Bulk Discount \u2013 500 Gildan\u202f64000 Tees  \n\nHi Printful Team,\n\nI hope you\u2019re doing well. We\u2019re planning to place an order for **500 Gildan\u202f64000 tees** and would love to discuss a possible bulk discount for this quantity. Could you please let us know what options you have available for orders of this size?\n\nThank you for your assistance.  \n\nBest regards,  \nHyder"
+}

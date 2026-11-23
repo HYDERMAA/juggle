@@ -1,0 +1,7 @@
+{
+ "id": "L19",
+ "sample": 1,
+ "cond": "j2",
+ "model": "gpt-oss-20b",
+ "response": "**BLUF:** Typos fixed on both UK and US about pages; tee price updated to \u00a324.99 in UK and $29.99 in US.  \n\n---\n\n**UK about page:**  \n- Corrected \u201carchieve\u201d \u2192 \u201carchive\u201d.  \n\n**UK tee price:**  \n- Updated to **\u00a324.99**.  \n\n**US about page:**  \n- Corrected \u201carchieve\u201d \u2192 \u201carchive\u201d.  \n\n**US tee price:**  \n- Updated to **$29.99** (converted from \u00a324.99 at current exchange rate).  \n\nAll edits have been committed to the repository and the respective live URLs are refreshed.  \n\n> Done: R1 (typo + UK price)  \n> Next: None (both tasks completed)."
+}

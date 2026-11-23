@@ -1,0 +1,7 @@
+{
+ "id": "L18",
+ "sample": 1,
+ "cond": "j2",
+ "model": "gpt-oss-20b",
+ "response": "**BLUF** \u2013 Migration finished; here\u2019s the v1.2 changelog.\n\n---\n\n### Changelog \u2013 Version\u202f1.2\n\n* **Database migration** \u2013 switched from SQLite to PostgreSQL for better scalability and concurrency.  \n  * Updated `db/index.js` to use `pg` and connection pool.  \n  * Re\u2011created all tables and migrated existing data.  \n  * Added indexes on `users.email`, `orders.user_id`, and `products.category_id` for faster lookups.  \n\n* **Connection abstraction** \u2013 added `db/config.js` to centralise connection string handling and environment variables (`PGHOST`, `PGPORT`, `PGUSER`, `PGPASSWORD`, `PGDATABASE`).  \n\n* **Error handling** \u2013 wrapped DB calls in `async/await` try/catch blocks; errors now surface as HTTP\u202f500 with JSON payload `{ error: \"Database error\" }`.  \n\n* **Testing** \u2013 updated unit tests to use a test Postgres instance; added integration test to confirm data migration correctness.  \n\n* **Documentation** \u2013 updated `README.md` with migration steps, environment variable guidance, and debug info.  \n\n* **Miscellaneous** \u2013 cleaned up unused SQLite configuration files and removed `sqlite3` dependency.  \n\n---\n\n**Done:**\n\n* R1 \u2013 migrate database (SQLite \u2192 Postgres).  \n* R2 \u2013 write changelog for v1.2.  \n\n**Next:** review and approve the changelog."
+}

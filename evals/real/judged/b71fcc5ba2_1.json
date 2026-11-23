@@ -1,0 +1,1 @@
+{"bid": "b71fcc5ba2", "round": 1, "scores": [1, 1, 0, 1, 1, 1, 1, 1], "notes": "Catches the core requests but mistakenly includes a dash character, violating the no\u2011em\u2011dash rule."}

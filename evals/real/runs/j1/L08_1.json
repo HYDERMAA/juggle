@@ -1,0 +1,7 @@
+{
+ "id": "L08",
+ "sample": 1,
+ "cond": "j1",
+ "model": "gpt-oss-20b",
+ "response": "**BLUF:** Week plan updated \u2013 finished the Seatbelt README, gym on Mon/Wed/Fri at 7\u202fa.m., TikTok cancelled, accounts wrapped by Thursday, and Saturday\u2013Sunday kept free.\n\n1. **Seatbelt README** \u2013 finish today (by end\u2011of\u2011day).  \n2. **Accounts** \u2013 complete by Thursday; focus on bookkeeping and next\u2011month forecast.  \n3. **Gym** \u2013 Mon/Wed/Fri, 7\u202fa.m. (add to calendar).  \n4. **TikTok** \u2013 cancelled for this week.  \n5. **Weekend free** \u2013 no work or meetings scheduled for Saturday/Sunday.\n\n**Ledger**  \n- Done: Seatbelt README (today)  \n- Next: Accounts (by Thursday)  \n- Next: Gym (Mon/Wed/Fri)  \n- Next: Weekend free (Sat\u2011Sun)  \n\nLet me know if anything else needs tweaking."
+}

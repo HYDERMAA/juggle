@@ -1,0 +1,3 @@
+{"date": "23 Nov 2026", "scenarios": 30, "heldout_n": 10, "tests": 20,
+ "heldout": {"none_pct": 0, "juggle_pct": 0}, "dev": {"none_pct": 0, "juggle_pct": 0},
+ "layer_heldout": {"none_pct": 0, "juggle_pct": 0}, "layer_dev": {"none_pct": 0, "juggle_pct": 0}}

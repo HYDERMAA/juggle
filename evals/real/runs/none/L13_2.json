@@ -1,0 +1,7 @@
+{
+ "id": "L13",
+ "sample": 2,
+ "cond": "none",
+ "model": "gpt-oss-20b",
+ "response": "Absolutely! Showcasing a project where you leveraged AI demonstrates both initiative and a modern mindset\u2014qualities Monzo values. Just frame it so that it highlights the problem you solved, the design process you followed, and the impact of the AI feature. Here\u2019s a quick add\u2011on you can drop into your cover letter:\n\n> **AI\u2011Driven BFC Application (Personal Project)**  \n> *January\u202f\u2013\u202fMarch\u202f2024*  \n> Took on a side project to create a simple \u201cAI\u2011Powered Budget Feedback Coach\u201d for personal finance. I sketched wireframes, translated them into a Figma prototype, and built a lightweight web app that used the OpenAI API to analyze user\u2011entered spending data and generate actionable visual insights. The experience taught me how to keep the UX intuitive while integrating machine\u2011learning outputs\u2014exactly the kind of \u201cfuture\u2011ready\u201d design Monzo looks for.\n\nFeel free to tweak the wording to match your r\u00e9sum\u00e9 and the tone of your overall letter. Good luck!"
+}

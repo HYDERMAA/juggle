@@ -1,0 +1,7 @@
+{
+ "id": "H02",
+ "sample": 0,
+ "cond": "j5",
+ "model": "gpt-oss-20b",
+ "response": "**Draft:**  \n\"Hey team! Let's meet for drinks this Thursday at 7\u202fpm at The Crown. See you there!\"\n\nDone."
+}

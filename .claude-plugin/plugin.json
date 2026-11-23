@@ -1,0 +1,20 @@
+{
+  "name": "juggle",
+  "description": "Layer and queue messages on your AI while it works, without losing the original request. Tracks every ask, applies corrections, handles stop and do-this-first, flags real clashes and reads fast phone typing.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mohammed Hyder",
+    "url": "https://github.com/HYDERMAA"
+  },
+  "homepage": "https://github.com/HYDERMAA/juggle",
+  "repository": "https://github.com/HYDERMAA/juggle",
+  "license": "MIT",
+  "keywords": [
+    "queued-messages",
+    "multi-turn",
+    "instruction-following",
+    "claude-code",
+    "productivity",
+    "mobile"
+  ]
+}

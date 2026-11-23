@@ -1,0 +1,7 @@
+{
+ "id": "L02",
+ "sample": 0,
+ "cond": "j3",
+ "model": "gpt-oss-20b",
+ "response": "Here\u2019s your email:\n\n> Subject: Bulk\u2011order discount request \u2013 500 Gildan\u202f64000 tees  \n> \n> Hi Printful team,  \n> \n> I\u2019d like to place a bulk order of 500 Gildan\u202f64000 tees. Could you let me know if you offer any discount or special pricing for this quantity?  \n> \n> Thanks for your assistance.  \n> \n> Best regards,  \n> \n> Hyder"
+}

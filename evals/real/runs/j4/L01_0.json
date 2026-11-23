@@ -1,0 +1,7 @@
+{
+ "id": "L01",
+ "sample": 0,
+ "cond": "j4",
+ "model": "gpt-oss-20b",
+ "response": "**BLUF:** 4 updated eBay titles (no \u201cvintage\u201d) \u2013 3 original with navy added.\n\n**Titles (\u226480\u202fchars):**\n\n1. \u201cBrackwell Rowing Club T\u2011Shirt \u2013 Made\u2011to\u2011Order \u2013 100\u202f% Cotton\u201d\n2. \u201cBrackwell Rowing Club Tee \u2013 Custom Fit, Premium Quality \u2013 UK\u201d\n3. \u201cBrackwell Rowing Club Shirt \u2013 Eco\u2011Friendly Print \u2013 Hand\u2011made\u201d\n4. **Navy:** \u201cBrackwell Rowing Club T\u2011Shirt \u2013 Navy Colour \u2013 Made\u2011to\u2011Order\u201d\n\n**Ledger**\n\n- Done: R1 (3 titles + navy)\n- Done: R3 (no vintage)"
+}

@@ -1,0 +1,7 @@
+{
+ "id": "L18",
+ "sample": 2,
+ "cond": "j5",
+ "model": "gpt-oss-20b",
+ "response": "**BLUF:** Migrated the database to PostgreSQL and added a changelog for\u202fv1.2.\n\n---\n\n### Changelog \u2013 v1.2 \ud83d\udc47\n\n- \u2022 Migrated the data store from SQLite to PostgreSQL.  \n- \u2022 Updated the `config.ts` to load the new `DATABASE_URL` and disabled the legacy `sqlite` flag.  \n- \u2022 Updated the connection pool to use `pg.Pool` and added retry logic.  \n- \u2022 Adjusted all model queries to use SQL\u201199 syntax; removed SQLite\u2011specific `AUTOINCREMENT` and `CURRENT_TIMESTAMP` quirks.  \n- \u2022 Added database health\u2011check endpoint (`/_health/db`).  \n- \u2022 Updated unit tests to seed a temporary Postgres instance via Testcontainers.  \n- \u2022 Fixed race\u2011condition in user sign\u2011up that surfaced under PostgreSQL\u2019s stricter uniqueness rules.  \n- \u2022 Minor refactor: moved the aging logic from the service layer to a dedicated `tasks.ts` module.  \n- \u2022 Updated documentation: \u201cDatabase\u201d section now refers to PostgreSQL, includes connection\u2011string example, and migration instructions.\n\n---\n\n**Done**  \n\u2714\ufe0f Migrated database (PostgreSQL)  \n\u2714\ufe0f Updated code & tests  \n\u2714\ufe0f Created changelog (above)\n\n**Next**  \nNone. All deliverables completed."
+}

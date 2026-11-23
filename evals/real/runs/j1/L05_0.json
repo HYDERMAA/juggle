@@ -1,0 +1,7 @@
+{
+ "id": "L05",
+ "sample": 0,
+ "cond": "j1",
+ "model": "gpt-oss-20b",
+ "response": "**BLUF:** FAQ first \u2013 here\u2019s the concise list for your shop page, followed by the product description later.\n\n---\n\n### FAQ\n\n| Question | Answer |\n|----------|--------|\n| **What sizes are available?** | XS \u2013 XXL (UK). |\n| **Can I choose a different color?** | Currently only white is stocked. |\n| **Is the crest permanently printed?** | Yes, sublimation printing ensures the design won\u2019t fade. |\n| **What\u2019s the material?** | 100\u202f% cotton, 200\u202fg/m\u00b2 for comfortable fit. |\n| **Do you offer discounts for bulk orders?** | Yes, contact us for wholesale pricing. |\n| **How long will delivery take?** | 3\u20115 business days within the UK. |\n| **Can I return the tee if it\u2019s a wrong size?** | Returns accepted within 14 days, unused & undressed. |\n\n---\n\n**Done:** FAQ  \n**Next:** Product description (white Ashcombe Bay tee with seaside town crest)."
+}

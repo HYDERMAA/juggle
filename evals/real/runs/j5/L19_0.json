@@ -1,0 +1,7 @@
+{
+ "id": "L19",
+ "sample": 0,
+ "cond": "j5",
+ "model": "gpt-oss-20b",
+ "response": "Tickets added:**R2** - price \u00a324.99 on UK tee; **R3** - price $29.99 on US tee.  \n\n**Finished work**:  \n\n- **UK shop** \u2013 corrected \u201carchieve\u201d to \u201carchive\u201d on the About page and set the tee price to **\u00a324.99**.  \n- **US shop** \u2013 mirror the typo fix and set the tee price to **$29.99**.  \n\nAll changes applied."
+}

@@ -1,0 +1,7 @@
+{
+ "id": "L15",
+ "sample": 0,
+ "cond": "j1",
+ "model": "gpt-oss-20b",
+ "response": "**BLUF:** Updated reply to Sam about order\u202f1042\u2014refund policy scrapped.\n\n---\n\n**Reply to Sam**\n\nHi Sam,\n\nThanks for reaching out. Your order (1042) was posted on Tuesday via Royal Mail, and it should arrive within 2\u20113 business days. We\u2019re monitoring the tracking, and I\u2019ll let you know immediately if anything changes.\n\nIf you have any other questions, just let me know!\n\nBest,  \n[Your Name]  \nTee Shop\n\n---\n\n**Ledger**\n\nDone: R2 customer reply (Sam, order\u202f1042)"
+}
