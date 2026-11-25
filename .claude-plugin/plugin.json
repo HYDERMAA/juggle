@@ -1,7 +1,7 @@
 {
   "name": "juggle",
   "description": "Layer and queue messages on your AI while it works, without losing the original request. Tracks every ask, applies corrections, handles stop and do-this-first, flags real clashes and reads fast phone typing.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "Mohammed Hyder",
     "url": "https://github.com/HYDERMAA"

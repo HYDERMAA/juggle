@@ -27,7 +27,7 @@ SKILL_MUST = {
     "clashes": ["ask only when", "safe default", "one word"],
     "typos": ["read for intent", "never comment on spelling"],
     "quality": ["every reply carries the finished work", "never claim", "finish the current step cleanly"],
-    "reply shape": ["bluf", "done:", "next:", "needs you:"],
+    "reply shape": ["one line up front", "done:", "next:", "needs you:"],
     "file ledger": ["scripts/ledger.py", ".juggle/ledger.md", "ledger.py check"],
 }
 AGENTS_MUST = ["rebuild the brief", "ledger", "newest wins", "stop", "safe version", "never comment on spelling",
@@ -66,7 +66,19 @@ class SkillText(unittest.TestCase):
             for p in phrases:
                 self.assertIn(p, text, f"{name}: missing '{p}'")
 
+    def test_skill_forbids_bluf_label(self):
+        """The model used to print the literal word 'BLUF:' because the skill named it as a reply prefix."""
+        for rel in ("skills/juggle/SKILL.md", "AGENTS.md", "paste-into-chat.md"):
+            text = read(ROOT, rel)
+            self.assertRegex(
+                text,
+                r'(?i)never print a label such as ["\u201c]?BLUF:',
+                f"{rel} must tell the model not to print the BLUF: label",
+            )
+            self.assertNotIn("One line up front (BLUF)", text)
+
     def test_agents_and_cursor_rule(self):
+
         subprocess.run([sys.executable, os.path.join(ROOT, "tools", "build.py")], check=True, capture_output=True)
         for rel in ("AGENTS.md", os.path.join(".cursor", "rules", "juggle.mdc")):
             text = read(ROOT, rel).lower()

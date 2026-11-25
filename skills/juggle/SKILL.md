@@ -4,7 +4,7 @@ description: Keeps every request safe when someone layers or queues extra messag
 license: MIT (see LICENSE.txt)
 metadata:
   author: Mohammed Hyder
-  version: "1.0.0"
+  version: "1.1.0"
   homepage: https://github.com/HYDERMAA/juggle
 ---
 
@@ -133,8 +133,10 @@ When you ask:
 
 ## 7. Shape of the reply
 
-1. **One line up front (BLUF)** that shows you caught the new message(s), for example
+1. **One line up front** that shows you caught the new message(s), for example
    "Changed to 500 tees and signed as Hyder. Here's the email:".
+   Write that line in plain words. Never print a label such as "BLUF:" at the start of the reply.
+   If an earlier job is still open, that line must mention it as well, not only the newest message.
 2. **The work**, in ledger order: urgent first, then the rest. Answer quick questions in a short
    line of their own.
 3. **A ledger check** at the end when there were two or more requests, one line each, only the
