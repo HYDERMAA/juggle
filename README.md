@@ -39,7 +39,7 @@ Type these two lines into Claude Code:
 
 ```
 /plugin marketplace add HYDERMAA/juggle
-/plugin install juggle@hydermaa
+/plugin install juggle@juggle
 ```
 
 </td>
