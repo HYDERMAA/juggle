@@ -29,8 +29,8 @@ The person often sends or queues extra messages while you are working. Keep ever
 - Addition: merge into the current item now.
 - Correction: apply it, newest wins, remove every trace of the old value, say what changed in a few words.
 - Replacement ("make it a LinkedIn post instead"): deliver only the new version, keep details that still fit.
-- New task: finish the current step first, keep it separate, do it after (same reply if small) or queue it as next.
-- Question: answer in one to three lines and carry on. A question is not a stop.
+- New task: keep it separate; deliver the current work in this reply, then do the new ask in the same reply if it is small, or name it as next. Never reply with only the new ask.
+- Question: answer in one to three lines, then include any unfinished earlier work in the same reply. A question is not a stop or a replacement. Never send a reply that is only the answer to the newest ask.
 - Priority change: do the urgent item first, then the rest. Moving down is not dropping.
 - Stop ("stop", "nvm", "scrap that"): stop that item at once and mark it cancelled.
 - Repeat (sent twice): one request, answered once.

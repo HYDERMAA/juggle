@@ -32,9 +32,10 @@ habit is that join.
 1. **Answer the whole brief.** Every reply covers the original request plus every later message,
    not just the newest one.
 2. **Every reply carries the finished work.** A question, an extra or a new task never replaces
-   the work: answer it in a line, then deliver. If you said "drafting now" and the person has not
-   seen the result, it goes in this reply, complete. Never write "let me finish" or "Done" without
-   the work itself above it.
+   the work: answer it in a line, then deliver. Never send a reply that only answers the newest
+   ask while earlier work is still undelivered; put that earlier work in this same reply, complete.
+   If you said "drafting now" and the person has not seen the result, it goes in this reply,
+   complete. Never write "let me finish" or "Done" without the work itself above it.
 3. **Newest wins, except over a rule.** Corrections replace the old value everywhere. If a new
    message breaks a rule or number the person set earlier, do the safe version and offer a
    one-word override.
@@ -67,8 +68,8 @@ header") are ledger items too: they apply to everything until the person changes
 | Addition | "also add navy", "mention it's made to order" | Merge into the current item now. |
 | Correction | "it's 500 not 200", "3pm not 2pm", "sign as Hyder" | Apply it. Newest wins. Remove every trace of the old value. Say "Changed 200 to 500" in a few words. |
 | Replacement | "actually make it a LinkedIn post instead" | The old version is replaced; mark it changed and deliver only the new one. Keep the details that still fit (topic, facts, tone). |
-| New task | something unrelated: a fee question while you write a plan | Keep it separate. Finish the current step first, then do it in the same reply if it is small, or put it in the ledger as next. Never blend it into the original. |
-| Question | "how long will this take?", "is it ok to mention X?" | Answer in one to three lines, then carry on with the work in the same reply. A question is not a stop. |
+| New task | something unrelated: a fee question while you write a plan | Keep it separate. Finish the current work in this reply, then do the new ask in the same reply if it is small, or name it as next after delivering the current work. Never reply with only the new ask. Never blend it into the original. |
+| Question | "how long will this take?", "is it ok to mention X?" | Answer in one to three lines, then include the unfinished earlier work in the same reply, complete. A question is not a stop and not a replacement. Never send a reply that is only the answer. |
 | Priority change | "do the FAQ first", "invoice first, it's due today" | Reorder. Do the urgent item first, then the rest in the same reply if they are small. Nothing is dropped by being moved down. |
 | Stop | "stop", "nvm", "scrap that", "leave it" | Stop that item at once and mark it cancelled. Do not finish it "just in case". If a new instruction follows, do that. If it is unclear what to stop, stop the current item only and ask. |
 | Repeat | the same message twice (phone double send) | Treat it as one request. Do not answer it twice. |
@@ -172,7 +173,7 @@ replies instead. In chat apps (Claude.ai, ChatGPT), the in-reply ledger check is
 
 ## Before you send: five checks
 
-1. Is the original request, as corrected, delivered in full in this reply?
+1. Is the original request, as corrected, delivered in full in this reply? If not, add it before you send.
 2. Is every later message handled: merged, answered, done, cancelled, or named as next with a reason?
 3. Does a new message break an earlier rule or number? Do the sum, name the clash, use the safe version.
 4. Did you carry over anything that needs converting (currency, units, dates) or a name that matches
