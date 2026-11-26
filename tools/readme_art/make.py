@@ -411,7 +411,7 @@ def stats(mode):
 # =====================================================================
 def footer(mode):
     W, H = 1200, 220
-    d = Doc(W, H, "Juggle. Free and open source under the MIT licence. Made by Mohammed Hyder.")
+    d = Doc(W, H, "Juggle. Free and open source under the MIT licence. Made by Hyder.")
     grad(d, "fb", "#061a1c", "#151447", 1, 1)
     d.adddef(f'<clipPath id="fc"><rect width="{W}" height="{H}" rx="24"/></clipPath>')
     for i, c in enumerate(BALLS):
@@ -423,7 +423,7 @@ def footer(mode):
     for i, (cx, cy) in enumerate([(84, 86), (118, 66), (150, 96)]):
         d.add(f'<circle cx="{cx}" cy="{cy}" r="14" fill="url(#ball{i})"/>')
     d.text(186, 112, "Juggle", 44, "#ffffff", 800, track=-0.03)
-    d.text(188, 146, "Free and open source. MIT licence. Made by Mohammed Hyder.", 19, "#b9c6d6", 500)
+    d.text(188, 146, "Free and open source. MIT licence. Made by Hyder.", 19, "#b9c6d6", 500)
     d.text(188, 176, "Layer messages on your AI. Nothing gets dropped.", 17, "#8a9ab0", 500)
     return d
 

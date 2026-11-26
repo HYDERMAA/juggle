@@ -341,7 +341,7 @@ No. The skill is text, and the ledger script writes one local file. No accounts,
 <br>
 
 <p align="center">
-  <img src="assets/readme/footer.svg" alt="Juggle. Free and open source under the MIT licence. Made by Mohammed Hyder." width="100%">
+  <img src="assets/readme/footer.svg" alt="Juggle. Free and open source under the MIT licence. Made by Hyder." width="100%">
 </p>
 
 <p align="center"><a href="#top">Back to top</a> &nbsp;·&nbsp; <a href="LICENSE">MIT licence</a> &nbsp;·&nbsp; <a href="evals/real/README.md">How it is tested</a></p>
